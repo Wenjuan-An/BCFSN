@@ -1,0 +1,100 @@
+{"_impath": "fgvc_aircraft/images/0817494.jpg", "_domain": 0, "_classname": "707-320", "_label": 0}
+{"_impath": "fgvc_aircraft/images/0983618.jpg", "_domain": 0, "_classname": "727-200", "_label": 1}
+{"_impath": "fgvc_aircraft/images/0826475.jpg", "_domain": 0, "_classname": "737-200", "_label": 2}
+{"_impath": "fgvc_aircraft/images/1110775.jpg", "_domain": 0, "_classname": "737-300", "_label": 3}
+{"_impath": "fgvc_aircraft/images/0740907.jpg", "_domain": 0, "_classname": "737-400", "_label": 4}
+{"_impath": "fgvc_aircraft/images/0912693.jpg", "_domain": 0, "_classname": "737-500", "_label": 5}
+{"_impath": "fgvc_aircraft/images/1773981.jpg", "_domain": 0, "_classname": "737-600", "_label": 6}
+{"_impath": "fgvc_aircraft/images/0382052.jpg", "_domain": 0, "_classname": "737-700", "_label": 7}
+{"_impath": "fgvc_aircraft/images/1561334.jpg", "_domain": 0, "_classname": "737-800", "_label": 8}
+{"_impath": "fgvc_aircraft/images/0292868.jpg", "_domain": 0, "_classname": "737-900", "_label": 9}
+{"_impath": "fgvc_aircraft/images/0993061.jpg", "_domain": 0, "_classname": "747-100", "_label": 10}
+{"_impath": "fgvc_aircraft/images/0765599.jpg", "_domain": 0, "_classname": "747-200", "_label": 11}
+{"_impath": "fgvc_aircraft/images/0785021.jpg", "_domain": 0, "_classname": "747-300", "_label": 12}
+{"_impath": "fgvc_aircraft/images/2091929.jpg", "_domain": 0, "_classname": "747-400", "_label": 13}
+{"_impath": "fgvc_aircraft/images/2224813.jpg", "_domain": 0, "_classname": "757-200", "_label": 14}
+{"_impath": "fgvc_aircraft/images/1156768.jpg", "_domain": 0, "_classname": "757-300", "_label": 15}
+{"_impath": "fgvc_aircraft/images/0738257.jpg", "_domain": 0, "_classname": "767-200", "_label": 16}
+{"_impath": "fgvc_aircraft/images/1553071.jpg", "_domain": 0, "_classname": "767-300", "_label": 17}
+{"_impath": "fgvc_aircraft/images/1810723.jpg", "_domain": 0, "_classname": "767-400", "_label": 18}
+{"_impath": "fgvc_aircraft/images/1758487.jpg", "_domain": 0, "_classname": "777-200", "_label": 19}
+{"_impath": "fgvc_aircraft/images/2044875.jpg", "_domain": 0, "_classname": "777-300", "_label": 20}
+{"_impath": "fgvc_aircraft/images/2025767.jpg", "_domain": 0, "_classname": "A300B4", "_label": 21}
+{"_impath": "fgvc_aircraft/images/1561989.jpg", "_domain": 0, "_classname": "A310", "_label": 22}
+{"_impath": "fgvc_aircraft/images/1607382.jpg", "_domain": 0, "_classname": "A318", "_label": 23}
+{"_impath": "fgvc_aircraft/images/0248132.jpg", "_domain": 0, "_classname": "A319", "_label": 24}
+{"_impath": "fgvc_aircraft/images/1833079.jpg", "_domain": 0, "_classname": "A320", "_label": 25}
+{"_impath": "fgvc_aircraft/images/1079168.jpg", "_domain": 0, "_classname": "A321", "_label": 26}
+{"_impath": "fgvc_aircraft/images/1237863.jpg", "_domain": 0, "_classname": "A330-200", "_label": 27}
+{"_impath": "fgvc_aircraft/images/1027573.jpg", "_domain": 0, "_classname": "A330-300", "_label": 28}
+{"_impath": "fgvc_aircraft/images/0140272.jpg", "_domain": 0, "_classname": "A340-200", "_label": 29}
+{"_impath": "fgvc_aircraft/images/0885090.jpg", "_domain": 0, "_classname": "A340-300", "_label": 30}
+{"_impath": "fgvc_aircraft/images/0776777.jpg", "_domain": 0, "_classname": "A340-500", "_label": 31}
+{"_impath": "fgvc_aircraft/images/1420117.jpg", "_domain": 0, "_classname": "A340-600", "_label": 32}
+{"_impath": "fgvc_aircraft/images/2235142.jpg", "_domain": 0, "_classname": "A380", "_label": 33}
+{"_impath": "fgvc_aircraft/images/1726753.jpg", "_domain": 0, "_classname": "ATR-42", "_label": 34}
+{"_impath": "fgvc_aircraft/images/0136161.jpg", "_domain": 0, "_classname": "ATR-72", "_label": 35}
+{"_impath": "fgvc_aircraft/images/0572863.jpg", "_domain": 0, "_classname": "An-12", "_label": 36}
+{"_impath": "fgvc_aircraft/images/0966109.jpg", "_domain": 0, "_classname": "BAE 146-200", "_label": 37}
+{"_impath": "fgvc_aircraft/images/0523168.jpg", "_domain": 0, "_classname": "BAE 146-300", "_label": 38}
+{"_impath": "fgvc_aircraft/images/1902706.jpg", "_domain": 0, "_classname": "BAE-125", "_label": 39}
+{"_impath": "fgvc_aircraft/images/1772155.jpg", "_domain": 0, "_classname": "Beechcraft 1900", "_label": 40}
+{"_impath": "fgvc_aircraft/images/1351340.jpg", "_domain": 0, "_classname": "Boeing 717", "_label": 41}
+{"_impath": "fgvc_aircraft/images/0939510.jpg", "_domain": 0, "_classname": "C-130", "_label": 42}
+{"_impath": "fgvc_aircraft/images/0576251.jpg", "_domain": 0, "_classname": "C-47", "_label": 43}
+{"_impath": "fgvc_aircraft/images/0130598.jpg", "_domain": 0, "_classname": "CRJ-200", "_label": 44}
+{"_impath": "fgvc_aircraft/images/1719820.jpg", "_domain": 0, "_classname": "CRJ-700", "_label": 45}
+{"_impath": "fgvc_aircraft/images/1929102.jpg", "_domain": 0, "_classname": "CRJ-900", "_label": 46}
+{"_impath": "fgvc_aircraft/images/2243572.jpg", "_domain": 0, "_classname": "Cessna 172", "_label": 47}
+{"_impath": "fgvc_aircraft/images/0279893.jpg", "_domain": 0, "_classname": "Cessna 208", "_label": 48}
+{"_impath": "fgvc_aircraft/images/1921500.jpg", "_domain": 0, "_classname": "Cessna 525", "_label": 49}
+{"_impath": "fgvc_aircraft/images/1970744.jpg", "_domain": 0, "_classname": "Cessna 560", "_label": 50}
+{"_impath": "fgvc_aircraft/images/1132237.jpg", "_domain": 0, "_classname": "Challenger 600", "_label": 51}
+{"_impath": "fgvc_aircraft/images/0065834.jpg", "_domain": 0, "_classname": "DC-10", "_label": 52}
+{"_impath": "fgvc_aircraft/images/2178266.jpg", "_domain": 0, "_classname": "DC-3", "_label": 53}
+{"_impath": "fgvc_aircraft/images/0174896.jpg", "_domain": 0, "_classname": "DC-6", "_label": 54}
+{"_impath": "fgvc_aircraft/images/0116710.jpg", "_domain": 0, "_classname": "DC-8", "_label": 55}
+{"_impath": "fgvc_aircraft/images/1251764.jpg", "_domain": 0, "_classname": "DC-9-30", "_label": 56}
+{"_impath": "fgvc_aircraft/images/0820512.jpg", "_domain": 0, "_classname": "DH-82", "_label": 57}
+{"_impath": "fgvc_aircraft/images/1397217.jpg", "_domain": 0, "_classname": "DHC-1", "_label": 58}
+{"_impath": "fgvc_aircraft/images/0302001.jpg", "_domain": 0, "_classname": "DHC-6", "_label": 59}
+{"_impath": "fgvc_aircraft/images/0573292.jpg", "_domain": 0, "_classname": "DHC-8-100", "_label": 60}
+{"_impath": "fgvc_aircraft/images/0822062.jpg", "_domain": 0, "_classname": "DHC-8-300", "_label": 61}
+{"_impath": "fgvc_aircraft/images/1726551.jpg", "_domain": 0, "_classname": "DR-400", "_label": 62}
+{"_impath": "fgvc_aircraft/images/1938172.jpg", "_domain": 0, "_classname": "Dornier 328", "_label": 63}
+{"_impath": "fgvc_aircraft/images/2105219.jpg", "_domain": 0, "_classname": "E-170", "_label": 64}
+{"_impath": "fgvc_aircraft/images/2245655.jpg", "_domain": 0, "_classname": "E-190", "_label": 65}
+{"_impath": "fgvc_aircraft/images/1799469.jpg", "_domain": 0, "_classname": "E-195", "_label": 66}
+{"_impath": "fgvc_aircraft/images/0202431.jpg", "_domain": 0, "_classname": "EMB-120", "_label": 67}
+{"_impath": "fgvc_aircraft/images/2020296.jpg", "_domain": 0, "_classname": "ERJ 135", "_label": 68}
+{"_impath": "fgvc_aircraft/images/1114210.jpg", "_domain": 0, "_classname": "ERJ 145", "_label": 69}
+{"_impath": "fgvc_aircraft/images/1753489.jpg", "_domain": 0, "_classname": "Embraer Legacy 600", "_label": 70}
+{"_impath": "fgvc_aircraft/images/1564429.jpg", "_domain": 0, "_classname": "Eurofighter Typhoon", "_label": 71}
+{"_impath": "fgvc_aircraft/images/1223924.jpg", "_domain": 0, "_classname": "F-16A/B", "_label": 72}
+{"_impath": "fgvc_aircraft/images/1113294.jpg", "_domain": 0, "_classname": "F/A-18", "_label": 73}
+{"_impath": "fgvc_aircraft/images/0081864.jpg", "_domain": 0, "_classname": "Falcon 2000", "_label": 74}
+{"_impath": "fgvc_aircraft/images/1031647.jpg", "_domain": 0, "_classname": "Falcon 900", "_label": 75}
+{"_impath": "fgvc_aircraft/images/0136160.jpg", "_domain": 0, "_classname": "Fokker 100", "_label": 76}
+{"_impath": "fgvc_aircraft/images/1879896.jpg", "_domain": 0, "_classname": "Fokker 50", "_label": 77}
+{"_impath": "fgvc_aircraft/images/0467450.jpg", "_domain": 0, "_classname": "Fokker 70", "_label": 78}
+{"_impath": "fgvc_aircraft/images/0518626.jpg", "_domain": 0, "_classname": "Global Express", "_label": 79}
+{"_impath": "fgvc_aircraft/images/1498679.jpg", "_domain": 0, "_classname": "Gulfstream IV", "_label": 80}
+{"_impath": "fgvc_aircraft/images/1865143.jpg", "_domain": 0, "_classname": "Gulfstream V", "_label": 81}
+{"_impath": "fgvc_aircraft/images/0877683.jpg", "_domain": 0, "_classname": "Hawk T1", "_label": 82}
+{"_impath": "fgvc_aircraft/images/0576236.jpg", "_domain": 0, "_classname": "Il-76", "_label": 83}
+{"_impath": "fgvc_aircraft/images/0907389.jpg", "_domain": 0, "_classname": "L-1011", "_label": 84}
+{"_impath": "fgvc_aircraft/images/0681544.jpg", "_domain": 0, "_classname": "MD-11", "_label": 85}
+{"_impath": "fgvc_aircraft/images/0950428.jpg", "_domain": 0, "_classname": "MD-80", "_label": 86}
+{"_impath": "fgvc_aircraft/images/1772017.jpg", "_domain": 0, "_classname": "MD-87", "_label": 87}
+{"_impath": "fgvc_aircraft/images/0487360.jpg", "_domain": 0, "_classname": "MD-90", "_label": 88}
+{"_impath": "fgvc_aircraft/images/0735014.jpg", "_domain": 0, "_classname": "Metroliner", "_label": 89}
+{"_impath": "fgvc_aircraft/images/1376665.jpg", "_domain": 0, "_classname": "Model B200", "_label": 90}
+{"_impath": "fgvc_aircraft/images/1798545.jpg", "_domain": 0, "_classname": "PA-28", "_label": 91}
+{"_impath": "fgvc_aircraft/images/2202486.jpg", "_domain": 0, "_classname": "SR-20", "_label": 92}
+{"_impath": "fgvc_aircraft/images/1014304.jpg", "_domain": 0, "_classname": "Saab 2000", "_label": 93}
+{"_impath": "fgvc_aircraft/images/0347754.jpg", "_domain": 0, "_classname": "Saab 340", "_label": 94}
+{"_impath": "fgvc_aircraft/images/1576955.jpg", "_domain": 0, "_classname": "Spitfire", "_label": 95}
+{"_impath": "fgvc_aircraft/images/1091255.jpg", "_domain": 0, "_classname": "Tornado", "_label": 96}
+{"_impath": "fgvc_aircraft/images/0063292.jpg", "_domain": 0, "_classname": "Tu-134", "_label": 97}
+{"_impath": "fgvc_aircraft/images/0198445.jpg", "_domain": 0, "_classname": "Tu-154", "_label": 98}
+{"_impath": "fgvc_aircraft/images/1000013.jpg", "_domain": 0, "_classname": "Yak-42", "_label": 99}

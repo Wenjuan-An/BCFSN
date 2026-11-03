@@ -1,0 +1,408 @@
+{"_impath": "oxford_flowers/jpg/image_00053.jpg", "_domain": 0, "_classname": "passion flower", "_label": 76}
+{"_impath": "oxford_flowers/jpg/image_00204.jpg", "_domain": 0, "_classname": "passion flower", "_label": 76}
+{"_impath": "oxford_flowers/jpg/image_00052.jpg", "_domain": 0, "_classname": "passion flower", "_label": 76}
+{"_impath": "oxford_flowers/jpg/image_00101.jpg", "_domain": 0, "_classname": "passion flower", "_label": 76}
+{"_impath": "oxford_flowers/jpg/image_00281.jpg", "_domain": 0, "_classname": "water lily", "_label": 72}
+{"_impath": "oxford_flowers/jpg/image_00401.jpg", "_domain": 0, "_classname": "water lily", "_label": 72}
+{"_impath": "oxford_flowers/jpg/image_00334.jpg", "_domain": 0, "_classname": "water lily", "_label": 72}
+{"_impath": "oxford_flowers/jpg/image_00441.jpg", "_domain": 0, "_classname": "water lily", "_label": 72}
+{"_impath": "oxford_flowers/jpg/image_08083.jpg", "_domain": 0, "_classname": "cyclamen", "_label": 87}
+{"_impath": "oxford_flowers/jpg/image_00533.jpg", "_domain": 0, "_classname": "cyclamen", "_label": 87}
+{"_impath": "oxford_flowers/jpg/image_00466.jpg", "_domain": 0, "_classname": "cyclamen", "_label": 87}
+{"_impath": "oxford_flowers/jpg/image_00575.jpg", "_domain": 0, "_classname": "cyclamen", "_label": 87}
+{"_impath": "oxford_flowers/jpg/image_00601.jpg", "_domain": 0, "_classname": "watercress", "_label": 88}
+{"_impath": "oxford_flowers/jpg/image_00720.jpg", "_domain": 0, "_classname": "watercress", "_label": 88}
+{"_impath": "oxford_flowers/jpg/image_00665.jpg", "_domain": 0, "_classname": "watercress", "_label": 88}
+{"_impath": "oxford_flowers/jpg/image_00653.jpg", "_domain": 0, "_classname": "watercress", "_label": 88}
+{"_impath": "oxford_flowers/jpg/image_00789.jpg", "_domain": 0, "_classname": "frangipani", "_label": 80}
+{"_impath": "oxford_flowers/jpg/image_00808.jpg", "_domain": 0, "_classname": "frangipani", "_label": 80}
+{"_impath": "oxford_flowers/jpg/image_00822.jpg", "_domain": 0, "_classname": "frangipani", "_label": 80}
+{"_impath": "oxford_flowers/jpg/image_00890.jpg", "_domain": 0, "_classname": "frangipani", "_label": 80}
+{"_impath": "oxford_flowers/jpg/image_00989.jpg", "_domain": 0, "_classname": "wallflower", "_label": 45}
+{"_impath": "oxford_flowers/jpg/image_01120.jpg", "_domain": 0, "_classname": "wallflower", "_label": 45}
+{"_impath": "oxford_flowers/jpg/image_01071.jpg", "_domain": 0, "_classname": "wallflower", "_label": 45}
+{"_impath": "oxford_flowers/jpg/image_01024.jpg", "_domain": 0, "_classname": "wallflower", "_label": 45}
+{"_impath": "oxford_flowers/jpg/image_01300.jpg", "_domain": 0, "_classname": "rose", "_label": 73}
+{"_impath": "oxford_flowers/jpg/image_01179.jpg", "_domain": 0, "_classname": "rose", "_label": 73}
+{"_impath": "oxford_flowers/jpg/image_01154.jpg", "_domain": 0, "_classname": "rose", "_label": 73}
+{"_impath": "oxford_flowers/jpg/image_01243.jpg", "_domain": 0, "_classname": "rose", "_label": 73}
+{"_impath": "oxford_flowers/jpg/image_01459.jpg", "_domain": 0, "_classname": "petunia", "_label": 50}
+{"_impath": "oxford_flowers/jpg/image_03938.jpg", "_domain": 0, "_classname": "petunia", "_label": 50}
+{"_impath": "oxford_flowers/jpg/image_01344.jpg", "_domain": 0, "_classname": "petunia", "_label": 50}
+{"_impath": "oxford_flowers/jpg/image_01446.jpg", "_domain": 0, "_classname": "petunia", "_label": 50}
+{"_impath": "oxford_flowers/jpg/image_01540.jpg", "_domain": 0, "_classname": "poinsettia", "_label": 43}
+{"_impath": "oxford_flowers/jpg/image_01506.jpg", "_domain": 0, "_classname": "poinsettia", "_label": 43}
+{"_impath": "oxford_flowers/jpg/image_01515.jpg", "_domain": 0, "_classname": "poinsettia", "_label": 43}
+{"_impath": "oxford_flowers/jpg/image_01513.jpg", "_domain": 0, "_classname": "poinsettia", "_label": 43}
+{"_impath": "oxford_flowers/jpg/image_01675.jpg", "_domain": 0, "_classname": "clematis", "_label": 81}
+{"_impath": "oxford_flowers/jpg/image_01687.jpg", "_domain": 0, "_classname": "clematis", "_label": 81}
+{"_impath": "oxford_flowers/jpg/image_01674.jpg", "_domain": 0, "_classname": "clematis", "_label": 81}
+{"_impath": "oxford_flowers/jpg/image_01655.jpg", "_domain": 0, "_classname": "clematis", "_label": 81}
+{"_impath": "oxford_flowers/jpg/image_01758.jpg", "_domain": 0, "_classname": "hibiscus", "_label": 82}
+{"_impath": "oxford_flowers/jpg/image_01772.jpg", "_domain": 0, "_classname": "hibiscus", "_label": 82}
+{"_impath": "oxford_flowers/jpg/image_01796.jpg", "_domain": 0, "_classname": "hibiscus", "_label": 82}
+{"_impath": "oxford_flowers/jpg/image_01714.jpg", "_domain": 0, "_classname": "hibiscus", "_label": 82}
+{"_impath": "oxford_flowers/jpg/image_01865.jpg", "_domain": 0, "_classname": "lotus", "_label": 77}
+{"_impath": "oxford_flowers/jpg/image_01887.jpg", "_domain": 0, "_classname": "lotus", "_label": 77}
+{"_impath": "oxford_flowers/jpg/image_01888.jpg", "_domain": 0, "_classname": "lotus", "_label": 77}
+{"_impath": "oxford_flowers/jpg/image_01907.jpg", "_domain": 0, "_classname": "lotus", "_label": 77}
+{"_impath": "oxford_flowers/jpg/image_02052.jpg", "_domain": 0, "_classname": "anthurium", "_label": 79}
+{"_impath": "oxford_flowers/jpg/image_02026.jpg", "_domain": 0, "_classname": "anthurium", "_label": 79}
+{"_impath": "oxford_flowers/jpg/image_02014.jpg", "_domain": 0, "_classname": "anthurium", "_label": 79}
+{"_impath": "oxford_flowers/jpg/image_01967.jpg", "_domain": 0, "_classname": "anthurium", "_label": 79}
+{"_impath": "oxford_flowers/jpg/image_02144.jpg", "_domain": 0, "_classname": "thorn apple", "_label": 74}
+{"_impath": "oxford_flowers/jpg/image_02074.jpg", "_domain": 0, "_classname": "thorn apple", "_label": 74}
+{"_impath": "oxford_flowers/jpg/image_02124.jpg", "_domain": 0, "_classname": "thorn apple", "_label": 74}
+{"_impath": "oxford_flowers/jpg/image_02070.jpg", "_domain": 0, "_classname": "thorn apple", "_label": 74}
+{"_impath": "oxford_flowers/jpg/image_02193.jpg", "_domain": 0, "_classname": "barbeton daisy", "_label": 40}
+{"_impath": "oxford_flowers/jpg/image_02287.jpg", "_domain": 0, "_classname": "barbeton daisy", "_label": 40}
+{"_impath": "oxford_flowers/jpg/image_02269.jpg", "_domain": 0, "_classname": "barbeton daisy", "_label": 40}
+{"_impath": "oxford_flowers/jpg/image_02276.jpg", "_domain": 0, "_classname": "barbeton daisy", "_label": 40}
+{"_impath": "oxford_flowers/jpg/image_02336.jpg", "_domain": 0, "_classname": "sword lily", "_label": 42}
+{"_impath": "oxford_flowers/jpg/image_02356.jpg", "_domain": 0, "_classname": "sword lily", "_label": 42}
+{"_impath": "oxford_flowers/jpg/image_02416.jpg", "_domain": 0, "_classname": "sword lily", "_label": 42}
+{"_impath": "oxford_flowers/jpg/image_02391.jpg", "_domain": 0, "_classname": "sword lily", "_label": 42}
+{"_impath": "oxford_flowers/jpg/image_02476.jpg", "_domain": 0, "_classname": "morning glory", "_label": 75}
+{"_impath": "oxford_flowers/jpg/image_02518.jpg", "_domain": 0, "_classname": "morning glory", "_label": 75}
+{"_impath": "oxford_flowers/jpg/image_02449.jpg", "_domain": 0, "_classname": "morning glory", "_label": 75}
+{"_impath": "oxford_flowers/jpg/image_02526.jpg", "_domain": 0, "_classname": "morning glory", "_label": 75}
+{"_impath": "oxford_flowers/jpg/image_02599.jpg", "_domain": 0, "_classname": "columbine", "_label": 83}
+{"_impath": "oxford_flowers/jpg/image_02611.jpg", "_domain": 0, "_classname": "columbine", "_label": 83}
+{"_impath": "oxford_flowers/jpg/image_02575.jpg", "_domain": 0, "_classname": "columbine", "_label": 83}
+{"_impath": "oxford_flowers/jpg/image_02612.jpg", "_domain": 0, "_classname": "columbine", "_label": 83}
+{"_impath": "oxford_flowers/jpg/image_02724.jpg", "_domain": 0, "_classname": "geranium", "_label": 57}
+{"_impath": "oxford_flowers/jpg/image_02663.jpg", "_domain": 0, "_classname": "geranium", "_label": 57}
+{"_impath": "oxford_flowers/jpg/image_02650.jpg", "_domain": 0, "_classname": "geranium", "_label": 57}
+{"_impath": "oxford_flowers/jpg/image_02702.jpg", "_domain": 0, "_classname": "geranium", "_label": 57}
+{"_impath": "oxford_flowers/jpg/image_02773.jpg", "_domain": 0, "_classname": "bishop of llandaff", "_label": 55}
+{"_impath": "oxford_flowers/jpg/image_02794.jpg", "_domain": 0, "_classname": "bishop of llandaff", "_label": 55}
+{"_impath": "oxford_flowers/jpg/image_02759.jpg", "_domain": 0, "_classname": "bishop of llandaff", "_label": 55}
+{"_impath": "oxford_flowers/jpg/image_02831.jpg", "_domain": 0, "_classname": "bishop of llandaff", "_label": 55}
+{"_impath": "oxford_flowers/jpg/image_02867.jpg", "_domain": 0, "_classname": "tree mallow", "_label": 85}
+{"_impath": "oxford_flowers/jpg/image_02910.jpg", "_domain": 0, "_classname": "tree mallow", "_label": 85}
+{"_impath": "oxford_flowers/jpg/image_02918.jpg", "_domain": 0, "_classname": "tree mallow", "_label": 85}
+{"_impath": "oxford_flowers/jpg/image_02877.jpg", "_domain": 0, "_classname": "tree mallow", "_label": 85}
+{"_impath": "oxford_flowers/jpg/image_02926.jpg", "_domain": 0, "_classname": "pink-yellow dahlia", "_label": 59}
+{"_impath": "oxford_flowers/jpg/image_02953.jpg", "_domain": 0, "_classname": "pink-yellow dahlia", "_label": 59}
+{"_impath": "oxford_flowers/jpg/image_02963.jpg", "_domain": 0, "_classname": "pink-yellow dahlia", "_label": 59}
+{"_impath": "oxford_flowers/jpg/image_03015.jpg", "_domain": 0, "_classname": "pink-yellow dahlia", "_label": 59}
+{"_impath": "oxford_flowers/jpg/image_03030.jpg", "_domain": 0, "_classname": "bee balm", "_label": 91}
+{"_impath": "oxford_flowers/jpg/image_03067.jpg", "_domain": 0, "_classname": "bee balm", "_label": 91}
+{"_impath": "oxford_flowers/jpg/image_03031.jpg", "_domain": 0, "_classname": "bee balm", "_label": 91}
+{"_impath": "oxford_flowers/jpg/image_03080.jpg", "_domain": 0, "_classname": "bee balm", "_label": 91}
+{"_impath": "oxford_flowers/jpg/image_03134.jpg", "_domain": 0, "_classname": "snapdragon", "_label": 10}
+{"_impath": "oxford_flowers/jpg/image_03139.jpg", "_domain": 0, "_classname": "snapdragon", "_label": 10}
+{"_impath": "oxford_flowers/jpg/image_03138.jpg", "_domain": 0, "_classname": "snapdragon", "_label": 10}
+{"_impath": "oxford_flowers/jpg/image_03101.jpg", "_domain": 0, "_classname": "snapdragon", "_label": 10}
+{"_impath": "oxford_flowers/jpg/image_03273.jpg", "_domain": 0, "_classname": "californian poppy", "_label": 64}
+{"_impath": "oxford_flowers/jpg/image_03262.jpg", "_domain": 0, "_classname": "californian poppy", "_label": 64}
+{"_impath": "oxford_flowers/jpg/image_03256.jpg", "_domain": 0, "_classname": "californian poppy", "_label": 64}
+{"_impath": "oxford_flowers/jpg/image_03267.jpg", "_domain": 0, "_classname": "californian poppy", "_label": 64}
+{"_impath": "oxford_flowers/jpg/image_03335.jpg", "_domain": 0, "_classname": "bird of paradise", "_label": 7}
+{"_impath": "oxford_flowers/jpg/image_03314.jpg", "_domain": 0, "_classname": "bird of paradise", "_label": 7}
+{"_impath": "oxford_flowers/jpg/image_03304.jpg", "_domain": 0, "_classname": "bird of paradise", "_label": 7}
+{"_impath": "oxford_flowers/jpg/image_03333.jpg", "_domain": 0, "_classname": "bird of paradise", "_label": 7}
+{"_impath": "oxford_flowers/jpg/image_03457.jpg", "_domain": 0, "_classname": "fritillary", "_label": 22}
+{"_impath": "oxford_flowers/jpg/image_03409.jpg", "_domain": 0, "_classname": "fritillary", "_label": 22}
+{"_impath": "oxford_flowers/jpg/image_03407.jpg", "_domain": 0, "_classname": "fritillary", "_label": 22}
+{"_impath": "oxford_flowers/jpg/image_03382.jpg", "_domain": 0, "_classname": "fritillary", "_label": 22}
+{"_impath": "oxford_flowers/jpg/image_03461.jpg", "_domain": 0, "_classname": "sweet william", "_label": 29}
+{"_impath": "oxford_flowers/jpg/image_03462.jpg", "_domain": 0, "_classname": "sweet william", "_label": 29}
+{"_impath": "oxford_flowers/jpg/image_03496.jpg", "_domain": 0, "_classname": "sweet william", "_label": 29}
+{"_impath": "oxford_flowers/jpg/image_03518.jpg", "_domain": 0, "_classname": "sweet william", "_label": 29}
+{"_impath": "oxford_flowers/jpg/image_03637.jpg", "_domain": 0, "_classname": "azalea", "_label": 71}
+{"_impath": "oxford_flowers/jpg/image_03561.jpg", "_domain": 0, "_classname": "azalea", "_label": 71}
+{"_impath": "oxford_flowers/jpg/image_03546.jpg", "_domain": 0, "_classname": "azalea", "_label": 71}
+{"_impath": "oxford_flowers/jpg/image_03588.jpg", "_domain": 0, "_classname": "azalea", "_label": 71}
+{"_impath": "oxford_flowers/jpg/image_03667.jpg", "_domain": 0, "_classname": "primula", "_label": 52}
+{"_impath": "oxford_flowers/jpg/image_03705.jpg", "_domain": 0, "_classname": "primula", "_label": 52}
+{"_impath": "oxford_flowers/jpg/image_03671.jpg", "_domain": 0, "_classname": "primula", "_label": 52}
+{"_impath": "oxford_flowers/jpg/image_03658.jpg", "_domain": 0, "_classname": "primula", "_label": 52}
+{"_impath": "oxford_flowers/jpg/image_03824.jpg", "_domain": 0, "_classname": "cape flower", "_label": 36}
+{"_impath": "oxford_flowers/jpg/image_03742.jpg", "_domain": 0, "_classname": "cape flower", "_label": 36}
+{"_impath": "oxford_flowers/jpg/image_03797.jpg", "_domain": 0, "_classname": "cape flower", "_label": 36}
+{"_impath": "oxford_flowers/jpg/image_03747.jpg", "_domain": 0, "_classname": "cape flower", "_label": 36}
+{"_impath": "oxford_flowers/jpg/image_03911.jpg", "_domain": 0, "_classname": "purple coneflower", "_label": 16}
+{"_impath": "oxford_flowers/jpg/image_03855.jpg", "_domain": 0, "_classname": "purple coneflower", "_label": 16}
+{"_impath": "oxford_flowers/jpg/image_03901.jpg", "_domain": 0, "_classname": "purple coneflower", "_label": 16}
+{"_impath": "oxford_flowers/jpg/image_03854.jpg", "_domain": 0, "_classname": "purple coneflower", "_label": 16}
+{"_impath": "oxford_flowers/jpg/image_04034.jpg", "_domain": 0, "_classname": "colt's foot", "_label": 11}
+{"_impath": "oxford_flowers/jpg/image_04070.jpg", "_domain": 0, "_classname": "colt's foot", "_label": 11}
+{"_impath": "oxford_flowers/jpg/image_04054.jpg", "_domain": 0, "_classname": "colt's foot", "_label": 11}
+{"_impath": "oxford_flowers/jpg/image_04073.jpg", "_domain": 0, "_classname": "colt's foot", "_label": 11}
+{"_impath": "oxford_flowers/jpg/image_04114.jpg", "_domain": 0, "_classname": "artichoke", "_label": 28}
+{"_impath": "oxford_flowers/jpg/image_04148.jpg", "_domain": 0, "_classname": "artichoke", "_label": 28}
+{"_impath": "oxford_flowers/jpg/image_04144.jpg", "_domain": 0, "_classname": "artichoke", "_label": 28}
+{"_impath": "oxford_flowers/jpg/image_04130.jpg", "_domain": 0, "_classname": "artichoke", "_label": 28}
+{"_impath": "oxford_flowers/jpg/image_04229.jpg", "_domain": 0, "_classname": "wild pansy", "_label": 51}
+{"_impath": "oxford_flowers/jpg/image_04163.jpg", "_domain": 0, "_classname": "wild pansy", "_label": 51}
+{"_impath": "oxford_flowers/jpg/image_04196.jpg", "_domain": 0, "_classname": "wild pansy", "_label": 51}
+{"_impath": "oxford_flowers/jpg/image_04215.jpg", "_domain": 0, "_classname": "wild pansy", "_label": 51}
+{"_impath": "oxford_flowers/jpg/image_04311.jpg", "_domain": 0, "_classname": "peruvian lily", "_label": 17}
+{"_impath": "oxford_flowers/jpg/image_04262.jpg", "_domain": 0, "_classname": "peruvian lily", "_label": 17}
+{"_impath": "oxford_flowers/jpg/image_04303.jpg", "_domain": 0, "_classname": "peruvian lily", "_label": 17}
+{"_impath": "oxford_flowers/jpg/image_04302.jpg", "_domain": 0, "_classname": "peruvian lily", "_label": 17}
+{"_impath": "oxford_flowers/jpg/image_04390.jpg", "_domain": 0, "_classname": "ruby-lipped cattleya", "_label": 35}
+{"_impath": "oxford_flowers/jpg/image_04400.jpg", "_domain": 0, "_classname": "ruby-lipped cattleya", "_label": 35}
+{"_impath": "oxford_flowers/jpg/image_04326.jpg", "_domain": 0, "_classname": "ruby-lipped cattleya", "_label": 35}
+{"_impath": "oxford_flowers/jpg/image_04372.jpg", "_domain": 0, "_classname": "ruby-lipped cattleya", "_label": 35}
+{"_impath": "oxford_flowers/jpg/image_04461.jpg", "_domain": 0, "_classname": "canna lily", "_label": 89}
+{"_impath": "oxford_flowers/jpg/image_04454.jpg", "_domain": 0, "_classname": "canna lily", "_label": 89}
+{"_impath": "oxford_flowers/jpg/image_04479.jpg", "_domain": 0, "_classname": "canna lily", "_label": 89}
+{"_impath": "oxford_flowers/jpg/image_04413.jpg", "_domain": 0, "_classname": "canna lily", "_label": 89}
+{"_impath": "oxford_flowers/jpg/image_04544.jpg", "_domain": 0, "_classname": "gazania", "_label": 70}
+{"_impath": "oxford_flowers/jpg/image_04489.jpg", "_domain": 0, "_classname": "gazania", "_label": 70}
+{"_impath": "oxford_flowers/jpg/image_04488.jpg", "_domain": 0, "_classname": "gazania", "_label": 70}
+{"_impath": "oxford_flowers/jpg/image_04554.jpg", "_domain": 0, "_classname": "gazania", "_label": 70}
+{"_impath": "oxford_flowers/jpg/image_04583.jpg", "_domain": 0, "_classname": "lenten rose", "_label": 39}
+{"_impath": "oxford_flowers/jpg/image_04616.jpg", "_domain": 0, "_classname": "lenten rose", "_label": 39}
+{"_impath": "oxford_flowers/jpg/image_04604.jpg", "_domain": 0, "_classname": "lenten rose", "_label": 39}
+{"_impath": "oxford_flowers/jpg/image_04601.jpg", "_domain": 0, "_classname": "lenten rose", "_label": 39}
+{"_impath": "oxford_flowers/jpg/image_04660.jpg", "_domain": 0, "_classname": "buttercup", "_label": 47}
+{"_impath": "oxford_flowers/jpg/image_04691.jpg", "_domain": 0, "_classname": "buttercup", "_label": 47}
+{"_impath": "oxford_flowers/jpg/image_04683.jpg", "_domain": 0, "_classname": "buttercup", "_label": 47}
+{"_impath": "oxford_flowers/jpg/image_04676.jpg", "_domain": 0, "_classname": "buttercup", "_label": 47}
+{"_impath": "oxford_flowers/jpg/image_04730.jpg", "_domain": 0, "_classname": "pelargonium", "_label": 54}
+{"_impath": "oxford_flowers/jpg/image_04704.jpg", "_domain": 0, "_classname": "pelargonium", "_label": 54}
+{"_impath": "oxford_flowers/jpg/image_04718.jpg", "_domain": 0, "_classname": "pelargonium", "_label": 54}
+{"_impath": "oxford_flowers/jpg/image_04724.jpg", "_domain": 0, "_classname": "pelargonium", "_label": 54}
+{"_impath": "oxford_flowers/jpg/image_04800.jpg", "_domain": 0, "_classname": "desert-rose", "_label": 84}
+{"_impath": "oxford_flowers/jpg/image_04794.jpg", "_domain": 0, "_classname": "desert-rose", "_label": 84}
+{"_impath": "oxford_flowers/jpg/image_04827.jpg", "_domain": 0, "_classname": "desert-rose", "_label": 84}
+{"_impath": "oxford_flowers/jpg/image_04807.jpg", "_domain": 0, "_classname": "desert-rose", "_label": 84}
+{"_impath": "oxford_flowers/jpg/image_04876.jpg", "_domain": 0, "_classname": "hippeastrum", "_label": 90}
+{"_impath": "oxford_flowers/jpg/image_04887.jpg", "_domain": 0, "_classname": "hippeastrum", "_label": 90}
+{"_impath": "oxford_flowers/jpg/image_04837.jpg", "_domain": 0, "_classname": "hippeastrum", "_label": 90}
+{"_impath": "oxford_flowers/jpg/image_04844.jpg", "_domain": 0, "_classname": "hippeastrum", "_label": 90}
+{"_impath": "oxford_flowers/jpg/image_04932.jpg", "_domain": 0, "_classname": "giant white arum lily", "_label": 19}
+{"_impath": "oxford_flowers/jpg/image_04943.jpg", "_domain": 0, "_classname": "giant white arum lily", "_label": 19}
+{"_impath": "oxford_flowers/jpg/image_04911.jpg", "_domain": 0, "_classname": "giant white arum lily", "_label": 19}
+{"_impath": "oxford_flowers/jpg/image_04915.jpg", "_domain": 0, "_classname": "giant white arum lily", "_label": 19}
+{"_impath": "oxford_flowers/jpg/image_04963.jpg", "_domain": 0, "_classname": "marigold", "_label": 46}
+{"_impath": "oxford_flowers/jpg/image_05005.jpg", "_domain": 0, "_classname": "marigold", "_label": 46}
+{"_impath": "oxford_flowers/jpg/image_05008.jpg", "_domain": 0, "_classname": "marigold", "_label": 46}
+{"_impath": "oxford_flowers/jpg/image_04962.jpg", "_domain": 0, "_classname": "marigold", "_label": 46}
+{"_impath": "oxford_flowers/jpg/image_05052.jpg", "_domain": 0, "_classname": "orange dahlia", "_label": 58}
+{"_impath": "oxford_flowers/jpg/image_05077.jpg", "_domain": 0, "_classname": "orange dahlia", "_label": 58}
+{"_impath": "oxford_flowers/jpg/image_05086.jpg", "_domain": 0, "_classname": "orange dahlia", "_label": 58}
+{"_impath": "oxford_flowers/jpg/image_05072.jpg", "_domain": 0, "_classname": "orange dahlia", "_label": 58}
+{"_impath": "oxford_flowers/jpg/image_05134.jpg", "_domain": 0, "_classname": "hard-leaved pocket orchid", "_label": 1}
+{"_impath": "oxford_flowers/jpg/image_05138.jpg", "_domain": 0, "_classname": "hard-leaved pocket orchid", "_label": 1}
+{"_impath": "oxford_flowers/jpg/image_05113.jpg", "_domain": 0, "_classname": "hard-leaved pocket orchid", "_label": 1}
+{"_impath": "oxford_flowers/jpg/image_05123.jpg", "_domain": 0, "_classname": "hard-leaved pocket orchid", "_label": 1}
+{"_impath": "oxford_flowers/jpg/image_05196.jpg", "_domain": 0, "_classname": "english marigold", "_label": 4}
+{"_impath": "oxford_flowers/jpg/image_05188.jpg", "_domain": 0, "_classname": "english marigold", "_label": 4}
+{"_impath": "oxford_flowers/jpg/image_05157.jpg", "_domain": 0, "_classname": "english marigold", "_label": 4}
+{"_impath": "oxford_flowers/jpg/image_05178.jpg", "_domain": 0, "_classname": "english marigold", "_label": 4}
+{"_impath": "oxford_flowers/jpg/image_05275.jpg", "_domain": 0, "_classname": "stemless gentian", "_label": 27}
+{"_impath": "oxford_flowers/jpg/image_05212.jpg", "_domain": 0, "_classname": "stemless gentian", "_label": 27}
+{"_impath": "oxford_flowers/jpg/image_05273.jpg", "_domain": 0, "_classname": "stemless gentian", "_label": 27}
+{"_impath": "oxford_flowers/jpg/image_05234.jpg", "_domain": 0, "_classname": "stemless gentian", "_label": 27}
+{"_impath": "oxford_flowers/jpg/image_05289.jpg", "_domain": 0, "_classname": "tree poppy", "_label": 69}
+{"_impath": "oxford_flowers/jpg/image_05336.jpg", "_domain": 0, "_classname": "tree poppy", "_label": 69}
+{"_impath": "oxford_flowers/jpg/image_05297.jpg", "_domain": 0, "_classname": "tree poppy", "_label": 69}
+{"_impath": "oxford_flowers/jpg/image_05321.jpg", "_domain": 0, "_classname": "tree poppy", "_label": 69}
+{"_impath": "oxford_flowers/jpg/image_05384.jpg", "_domain": 0, "_classname": "pincushion flower", "_label": 21}
+{"_impath": "oxford_flowers/jpg/image_05344.jpg", "_domain": 0, "_classname": "pincushion flower", "_label": 21}
+{"_impath": "oxford_flowers/jpg/image_05388.jpg", "_domain": 0, "_classname": "pincushion flower", "_label": 21}
+{"_impath": "oxford_flowers/jpg/image_05378.jpg", "_domain": 0, "_classname": "pincushion flower", "_label": 21}
+{"_impath": "oxford_flowers/jpg/image_05405.jpg", "_domain": 0, "_classname": "sunflower", "_label": 53}
+{"_impath": "oxford_flowers/jpg/image_05458.jpg", "_domain": 0, "_classname": "sunflower", "_label": 53}
+{"_impath": "oxford_flowers/jpg/image_05403.jpg", "_domain": 0, "_classname": "sunflower", "_label": 53}
+{"_impath": "oxford_flowers/jpg/image_05442.jpg", "_domain": 0, "_classname": "sunflower", "_label": 53}
+{"_impath": "oxford_flowers/jpg/image_05499.jpg", "_domain": 0, "_classname": "magnolia", "_label": 86}
+{"_impath": "oxford_flowers/jpg/image_05501.jpg", "_domain": 0, "_classname": "magnolia", "_label": 86}
+{"_impath": "oxford_flowers/jpg/image_05483.jpg", "_domain": 0, "_classname": "magnolia", "_label": 86}
+{"_impath": "oxford_flowers/jpg/image_05474.jpg", "_domain": 0, "_classname": "magnolia", "_label": 86}
+{"_impath": "oxford_flowers/jpg/image_05540.jpg", "_domain": 0, "_classname": "osteospermum", "_label": 65}
+{"_impath": "oxford_flowers/jpg/image_05555.jpg", "_domain": 0, "_classname": "osteospermum", "_label": 65}
+{"_impath": "oxford_flowers/jpg/image_05566.jpg", "_domain": 0, "_classname": "osteospermum", "_label": 65}
+{"_impath": "oxford_flowers/jpg/image_05546.jpg", "_domain": 0, "_classname": "osteospermum", "_label": 65}
+{"_impath": "oxford_flowers/jpg/image_05602.jpg", "_domain": 0, "_classname": "garden phlox", "_label": 31}
+{"_impath": "oxford_flowers/jpg/image_05597.jpg", "_domain": 0, "_classname": "garden phlox", "_label": 31}
+{"_impath": "oxford_flowers/jpg/image_05598.jpg", "_domain": 0, "_classname": "garden phlox", "_label": 31}
+{"_impath": "oxford_flowers/jpg/image_05627.jpg", "_domain": 0, "_classname": "garden phlox", "_label": 31}
+{"_impath": "oxford_flowers/jpg/image_05642.jpg", "_domain": 0, "_classname": "sweet pea", "_label": 3}
+{"_impath": "oxford_flowers/jpg/image_05653.jpg", "_domain": 0, "_classname": "sweet pea", "_label": 3}
+{"_impath": "oxford_flowers/jpg/image_05647.jpg", "_domain": 0, "_classname": "sweet pea", "_label": 3}
+{"_impath": "oxford_flowers/jpg/image_05670.jpg", "_domain": 0, "_classname": "sweet pea", "_label": 3}
+{"_impath": "oxford_flowers/jpg/image_05712.jpg", "_domain": 0, "_classname": "daffodil", "_label": 41}
+{"_impath": "oxford_flowers/jpg/image_05708.jpg", "_domain": 0, "_classname": "daffodil", "_label": 41}
+{"_impath": "oxford_flowers/jpg/image_05741.jpg", "_domain": 0, "_classname": "daffodil", "_label": 41}
+{"_impath": "oxford_flowers/jpg/image_05723.jpg", "_domain": 0, "_classname": "daffodil", "_label": 41}
+{"_impath": "oxford_flowers/jpg/image_05764.jpg", "_domain": 0, "_classname": "king protea", "_label": 12}
+{"_impath": "oxford_flowers/jpg/image_05785.jpg", "_domain": 0, "_classname": "king protea", "_label": 12}
+{"_impath": "oxford_flowers/jpg/image_05751.jpg", "_domain": 0, "_classname": "king protea", "_label": 12}
+{"_impath": "oxford_flowers/jpg/image_05757.jpg", "_domain": 0, "_classname": "king protea", "_label": 12}
+{"_impath": "oxford_flowers/jpg/image_05832.jpg", "_domain": 0, "_classname": "great masterwort", "_label": 37}
+{"_impath": "oxford_flowers/jpg/image_05840.jpg", "_domain": 0, "_classname": "great masterwort", "_label": 37}
+{"_impath": "oxford_flowers/jpg/image_05819.jpg", "_domain": 0, "_classname": "great masterwort", "_label": 37}
+{"_impath": "oxford_flowers/jpg/image_05837.jpg", "_domain": 0, "_classname": "great masterwort", "_label": 37}
+{"_impath": "oxford_flowers/jpg/image_05866.jpg", "_domain": 0, "_classname": "black-eyed susan", "_label": 62}
+{"_impath": "oxford_flowers/jpg/image_05881.jpg", "_domain": 0, "_classname": "black-eyed susan", "_label": 62}
+{"_impath": "oxford_flowers/jpg/image_05883.jpg", "_domain": 0, "_classname": "black-eyed susan", "_label": 62}
+{"_impath": "oxford_flowers/jpg/image_05852.jpg", "_domain": 0, "_classname": "black-eyed susan", "_label": 62}
+{"_impath": "oxford_flowers/jpg/image_05924.jpg", "_domain": 0, "_classname": "bearded iris", "_label": 67}
+{"_impath": "oxford_flowers/jpg/image_05932.jpg", "_domain": 0, "_classname": "bearded iris", "_label": 67}
+{"_impath": "oxford_flowers/jpg/image_05954.jpg", "_domain": 0, "_classname": "bearded iris", "_label": 67}
+{"_impath": "oxford_flowers/jpg/image_05955.jpg", "_domain": 0, "_classname": "bearded iris", "_label": 67}
+{"_impath": "oxford_flowers/jpg/image_05961.jpg", "_domain": 0, "_classname": "windflower", "_label": 68}
+{"_impath": "oxford_flowers/jpg/image_05994.jpg", "_domain": 0, "_classname": "windflower", "_label": 68}
+{"_impath": "oxford_flowers/jpg/image_05989.jpg", "_domain": 0, "_classname": "windflower", "_label": 68}
+{"_impath": "oxford_flowers/jpg/image_05990.jpg", "_domain": 0, "_classname": "windflower", "_label": 68}
+{"_impath": "oxford_flowers/jpg/image_06033.jpg", "_domain": 0, "_classname": "ball moss", "_label": 92}
+{"_impath": "oxford_flowers/jpg/image_06045.jpg", "_domain": 0, "_classname": "ball moss", "_label": 92}
+{"_impath": "oxford_flowers/jpg/image_07302.jpg", "_domain": 0, "_classname": "ball moss", "_label": 92}
+{"_impath": "oxford_flowers/jpg/image_06032.jpg", "_domain": 0, "_classname": "ball moss", "_label": 92}
+{"_impath": "oxford_flowers/jpg/image_06081.jpg", "_domain": 0, "_classname": "spear thistle", "_label": 13}
+{"_impath": "oxford_flowers/jpg/image_06057.jpg", "_domain": 0, "_classname": "spear thistle", "_label": 13}
+{"_impath": "oxford_flowers/jpg/image_06055.jpg", "_domain": 0, "_classname": "spear thistle", "_label": 13}
+{"_impath": "oxford_flowers/jpg/image_06054.jpg", "_domain": 0, "_classname": "spear thistle", "_label": 13}
+{"_impath": "oxford_flowers/jpg/image_06104.jpg", "_domain": 0, "_classname": "silverbush", "_label": 63}
+{"_impath": "oxford_flowers/jpg/image_06142.jpg", "_domain": 0, "_classname": "silverbush", "_label": 63}
+{"_impath": "oxford_flowers/jpg/image_06102.jpg", "_domain": 0, "_classname": "silverbush", "_label": 63}
+{"_impath": "oxford_flowers/jpg/image_06140.jpg", "_domain": 0, "_classname": "silverbush", "_label": 63}
+{"_impath": "oxford_flowers/jpg/image_06168.jpg", "_domain": 0, "_classname": "balloon flower", "_label": 18}
+{"_impath": "oxford_flowers/jpg/image_06189.jpg", "_domain": 0, "_classname": "balloon flower", "_label": 18}
+{"_impath": "oxford_flowers/jpg/image_06192.jpg", "_domain": 0, "_classname": "balloon flower", "_label": 18}
+{"_impath": "oxford_flowers/jpg/image_06180.jpg", "_domain": 0, "_classname": "balloon flower", "_label": 18}
+{"_impath": "oxford_flowers/jpg/image_06246.jpg", "_domain": 0, "_classname": "oxeye daisy", "_label": 48}
+{"_impath": "oxford_flowers/jpg/image_06232.jpg", "_domain": 0, "_classname": "oxeye daisy", "_label": 48}
+{"_impath": "oxford_flowers/jpg/image_06237.jpg", "_domain": 0, "_classname": "oxeye daisy", "_label": 48}
+{"_impath": "oxford_flowers/jpg/image_06238.jpg", "_domain": 0, "_classname": "oxeye daisy", "_label": 48}
+{"_impath": "oxford_flowers/jpg/image_06271.jpg", "_domain": 0, "_classname": "cautleya spicata", "_label": 60}
+{"_impath": "oxford_flowers/jpg/image_06250.jpg", "_domain": 0, "_classname": "cautleya spicata", "_label": 60}
+{"_impath": "oxford_flowers/jpg/image_06288.jpg", "_domain": 0, "_classname": "cautleya spicata", "_label": 60}
+{"_impath": "oxford_flowers/jpg/image_06263.jpg", "_domain": 0, "_classname": "cautleya spicata", "_label": 60}
+{"_impath": "oxford_flowers/jpg/image_06342.jpg", "_domain": 0, "_classname": "common dandelion", "_label": 49}
+{"_impath": "oxford_flowers/jpg/image_06327.jpg", "_domain": 0, "_classname": "common dandelion", "_label": 49}
+{"_impath": "oxford_flowers/jpg/image_06530.jpg", "_domain": 0, "_classname": "common dandelion", "_label": 49}
+{"_impath": "oxford_flowers/jpg/image_06531.jpg", "_domain": 0, "_classname": "common dandelion", "_label": 49}
+{"_impath": "oxford_flowers/jpg/image_06349.jpg", "_domain": 0, "_classname": "yellow iris", "_label": 14}
+{"_impath": "oxford_flowers/jpg/image_06371.jpg", "_domain": 0, "_classname": "yellow iris", "_label": 14}
+{"_impath": "oxford_flowers/jpg/image_06353.jpg", "_domain": 0, "_classname": "yellow iris", "_label": 14}
+{"_impath": "oxford_flowers/jpg/image_06392.jpg", "_domain": 0, "_classname": "yellow iris", "_label": 14}
+{"_impath": "oxford_flowers/jpg/image_06431.jpg", "_domain": 0, "_classname": "monkshood", "_label": 8}
+{"_impath": "oxford_flowers/jpg/image_06417.jpg", "_domain": 0, "_classname": "monkshood", "_label": 8}
+{"_impath": "oxford_flowers/jpg/image_06439.jpg", "_domain": 0, "_classname": "monkshood", "_label": 8}
+{"_impath": "oxford_flowers/jpg/image_06426.jpg", "_domain": 0, "_classname": "monkshood", "_label": 8}
+{"_impath": "oxford_flowers/jpg/image_06455.jpg", "_domain": 0, "_classname": "love in the mist", "_label": 32}
+{"_impath": "oxford_flowers/jpg/image_06480.jpg", "_domain": 0, "_classname": "love in the mist", "_label": 32}
+{"_impath": "oxford_flowers/jpg/image_06470.jpg", "_domain": 0, "_classname": "love in the mist", "_label": 32}
+{"_impath": "oxford_flowers/jpg/image_06465.jpg", "_domain": 0, "_classname": "love in the mist", "_label": 32}
+{"_impath": "oxford_flowers/jpg/image_06515.jpg", "_domain": 0, "_classname": "corn poppy", "_label": 25}
+{"_impath": "oxford_flowers/jpg/image_06501.jpg", "_domain": 0, "_classname": "corn poppy", "_label": 25}
+{"_impath": "oxford_flowers/jpg/image_06520.jpg", "_domain": 0, "_classname": "corn poppy", "_label": 25}
+{"_impath": "oxford_flowers/jpg/image_06504.jpg", "_domain": 0, "_classname": "corn poppy", "_label": 25}
+{"_impath": "oxford_flowers/jpg/image_06581.jpg", "_domain": 0, "_classname": "grape hyacinth", "_label": 24}
+{"_impath": "oxford_flowers/jpg/image_06571.jpg", "_domain": 0, "_classname": "grape hyacinth", "_label": 24}
+{"_impath": "oxford_flowers/jpg/image_06595.jpg", "_domain": 0, "_classname": "grape hyacinth", "_label": 24}
+{"_impath": "oxford_flowers/jpg/image_06610.jpg", "_domain": 0, "_classname": "grape hyacinth", "_label": 24}
+{"_impath": "oxford_flowers/jpg/image_06618.jpg", "_domain": 0, "_classname": "canterbury bells", "_label": 2}
+{"_impath": "oxford_flowers/jpg/image_06633.jpg", "_domain": 0, "_classname": "canterbury bells", "_label": 2}
+{"_impath": "oxford_flowers/jpg/image_06617.jpg", "_domain": 0, "_classname": "canterbury bells", "_label": 2}
+{"_impath": "oxford_flowers/jpg/image_06640.jpg", "_domain": 0, "_classname": "canterbury bells", "_label": 2}
+{"_impath": "oxford_flowers/jpg/image_06675.jpg", "_domain": 0, "_classname": "globe-flower", "_label": 15}
+{"_impath": "oxford_flowers/jpg/image_06659.jpg", "_domain": 0, "_classname": "globe-flower", "_label": 15}
+{"_impath": "oxford_flowers/jpg/image_06688.jpg", "_domain": 0, "_classname": "globe-flower", "_label": 15}
+{"_impath": "oxford_flowers/jpg/image_06683.jpg", "_domain": 0, "_classname": "globe-flower", "_label": 15}
+{"_impath": "oxford_flowers/jpg/image_06732.jpg", "_domain": 0, "_classname": "toad lily", "_label": 78}
+{"_impath": "oxford_flowers/jpg/image_06704.jpg", "_domain": 0, "_classname": "toad lily", "_label": 78}
+{"_impath": "oxford_flowers/jpg/image_06712.jpg", "_domain": 0, "_classname": "toad lily", "_label": 78}
+{"_impath": "oxford_flowers/jpg/image_06708.jpg", "_domain": 0, "_classname": "toad lily", "_label": 78}
+{"_impath": "oxford_flowers/jpg/image_06757.jpg", "_domain": 0, "_classname": "pink primrose", "_label": 0}
+{"_impath": "oxford_flowers/jpg/image_06744.jpg", "_domain": 0, "_classname": "pink primrose", "_label": 0}
+{"_impath": "oxford_flowers/jpg/image_06741.jpg", "_domain": 0, "_classname": "pink primrose", "_label": 0}
+{"_impath": "oxford_flowers/jpg/image_06772.jpg", "_domain": 0, "_classname": "pink primrose", "_label": 0}
+{"_impath": "oxford_flowers/jpg/image_06807.jpg", "_domain": 0, "_classname": "fire lily", "_label": 20}
+{"_impath": "oxford_flowers/jpg/image_06776.jpg", "_domain": 0, "_classname": "fire lily", "_label": 20}
+{"_impath": "oxford_flowers/jpg/image_06793.jpg", "_domain": 0, "_classname": "fire lily", "_label": 20}
+{"_impath": "oxford_flowers/jpg/image_06786.jpg", "_domain": 0, "_classname": "fire lily", "_label": 20}
+{"_impath": "oxford_flowers/jpg/image_06827.jpg", "_domain": 0, "_classname": "red ginger", "_label": 23}
+{"_impath": "oxford_flowers/jpg/image_06841.jpg", "_domain": 0, "_classname": "red ginger", "_label": 23}
+{"_impath": "oxford_flowers/jpg/image_06830.jpg", "_domain": 0, "_classname": "red ginger", "_label": 23}
+{"_impath": "oxford_flowers/jpg/image_08049.jpg", "_domain": 0, "_classname": "red ginger", "_label": 23}
+{"_impath": "oxford_flowers/jpg/image_06854.jpg", "_domain": 0, "_classname": "prince of wales feathers", "_label": 26}
+{"_impath": "oxford_flowers/jpg/image_06851.jpg", "_domain": 0, "_classname": "prince of wales feathers", "_label": 26}
+{"_impath": "oxford_flowers/jpg/image_06879.jpg", "_domain": 0, "_classname": "prince of wales feathers", "_label": 26}
+{"_impath": "oxford_flowers/jpg/image_06852.jpg", "_domain": 0, "_classname": "prince of wales feathers", "_label": 26}
+{"_impath": "oxford_flowers/jpg/image_06915.jpg", "_domain": 0, "_classname": "carnation", "_label": 30}
+{"_impath": "oxford_flowers/jpg/image_08077.jpg", "_domain": 0, "_classname": "carnation", "_label": 30}
+{"_impath": "oxford_flowers/jpg/image_06926.jpg", "_domain": 0, "_classname": "carnation", "_label": 30}
+{"_impath": "oxford_flowers/jpg/image_06897.jpg", "_domain": 0, "_classname": "carnation", "_label": 30}
+{"_impath": "oxford_flowers/jpg/image_06953.jpg", "_domain": 0, "_classname": "mexican aster", "_label": 33}
+{"_impath": "oxford_flowers/jpg/image_06933.jpg", "_domain": 0, "_classname": "mexican aster", "_label": 33}
+{"_impath": "oxford_flowers/jpg/image_06949.jpg", "_domain": 0, "_classname": "mexican aster", "_label": 33}
+{"_impath": "oxford_flowers/jpg/image_06964.jpg", "_domain": 0, "_classname": "mexican aster", "_label": 33}
+{"_impath": "oxford_flowers/jpg/image_06974.jpg", "_domain": 0, "_classname": "alpine sea holly", "_label": 34}
+{"_impath": "oxford_flowers/jpg/image_06999.jpg", "_domain": 0, "_classname": "alpine sea holly", "_label": 34}
+{"_impath": "oxford_flowers/jpg/image_06986.jpg", "_domain": 0, "_classname": "alpine sea holly", "_label": 34}
+{"_impath": "oxford_flowers/jpg/image_08085.jpg", "_domain": 0, "_classname": "alpine sea holly", "_label": 34}
+{"_impath": "oxford_flowers/jpg/image_07018.jpg", "_domain": 0, "_classname": "siam tulip", "_label": 38}
+{"_impath": "oxford_flowers/jpg/image_07015.jpg", "_domain": 0, "_classname": "siam tulip", "_label": 38}
+{"_impath": "oxford_flowers/jpg/image_07040.jpg", "_domain": 0, "_classname": "siam tulip", "_label": 38}
+{"_impath": "oxford_flowers/jpg/image_07045.jpg", "_domain": 0, "_classname": "siam tulip", "_label": 38}
+{"_impath": "oxford_flowers/jpg/image_07070.jpg", "_domain": 0, "_classname": "spring crocus", "_label": 66}
+{"_impath": "oxford_flowers/jpg/image_07047.jpg", "_domain": 0, "_classname": "spring crocus", "_label": 66}
+{"_impath": "oxford_flowers/jpg/image_07077.jpg", "_domain": 0, "_classname": "spring crocus", "_label": 66}
+{"_impath": "oxford_flowers/jpg/image_07079.jpg", "_domain": 0, "_classname": "spring crocus", "_label": 66}
+{"_impath": "oxford_flowers/jpg/image_07098.jpg", "_domain": 0, "_classname": "globe thistle", "_label": 9}
+{"_impath": "oxford_flowers/jpg/image_07122.jpg", "_domain": 0, "_classname": "globe thistle", "_label": 9}
+{"_impath": "oxford_flowers/jpg/image_08094.jpg", "_domain": 0, "_classname": "globe thistle", "_label": 9}
+{"_impath": "oxford_flowers/jpg/image_08096.jpg", "_domain": 0, "_classname": "globe thistle", "_label": 9}
+{"_impath": "oxford_flowers/jpg/image_07132.jpg", "_domain": 0, "_classname": "bolero deep blue", "_label": 44}
+{"_impath": "oxford_flowers/jpg/image_07134.jpg", "_domain": 0, "_classname": "bolero deep blue", "_label": 44}
+{"_impath": "oxford_flowers/jpg/image_07137.jpg", "_domain": 0, "_classname": "bolero deep blue", "_label": 44}
+{"_impath": "oxford_flowers/jpg/image_07152.jpg", "_domain": 0, "_classname": "bolero deep blue", "_label": 44}
+{"_impath": "oxford_flowers/jpg/image_08109.jpg", "_domain": 0, "_classname": "tiger lily", "_label": 5}
+{"_impath": "oxford_flowers/jpg/image_07186.jpg", "_domain": 0, "_classname": "tiger lily", "_label": 5}
+{"_impath": "oxford_flowers/jpg/image_07174.jpg", "_domain": 0, "_classname": "tiger lily", "_label": 5}
+{"_impath": "oxford_flowers/jpg/image_07189.jpg", "_domain": 0, "_classname": "tiger lily", "_label": 5}
+{"_impath": "oxford_flowers/jpg/image_08101.jpg", "_domain": 0, "_classname": "moon orchid", "_label": 6}
+{"_impath": "oxford_flowers/jpg/image_08099.jpg", "_domain": 0, "_classname": "moon orchid", "_label": 6}
+{"_impath": "oxford_flowers/jpg/image_07210.jpg", "_domain": 0, "_classname": "moon orchid", "_label": 6}
+{"_impath": "oxford_flowers/jpg/image_07224.jpg", "_domain": 0, "_classname": "moon orchid", "_label": 6}
+{"_impath": "oxford_flowers/jpg/image_07240.jpg", "_domain": 0, "_classname": "gaura", "_label": 56}
+{"_impath": "oxford_flowers/jpg/image_08122.jpg", "_domain": 0, "_classname": "gaura", "_label": 56}
+{"_impath": "oxford_flowers/jpg/image_07266.jpg", "_domain": 0, "_classname": "gaura", "_label": 56}
+{"_impath": "oxford_flowers/jpg/image_08130.jpg", "_domain": 0, "_classname": "gaura", "_label": 56}
+{"_impath": "oxford_flowers/jpg/image_08176.jpg", "_domain": 0, "_classname": "japanese anemone", "_label": 61}
+{"_impath": "oxford_flowers/jpg/image_08153.jpg", "_domain": 0, "_classname": "japanese anemone", "_label": 61}
+{"_impath": "oxford_flowers/jpg/image_08180.jpg", "_domain": 0, "_classname": "japanese anemone", "_label": 61}
+{"_impath": "oxford_flowers/jpg/image_08164.jpg", "_domain": 0, "_classname": "japanese anemone", "_label": 61}
+{"_impath": "oxford_flowers/jpg/image_07461.jpg", "_domain": 0, "_classname": "foxglove", "_label": 93}
+{"_impath": "oxford_flowers/jpg/image_07404.jpg", "_domain": 0, "_classname": "foxglove", "_label": 93}
+{"_impath": "oxford_flowers/jpg/image_07365.jpg", "_domain": 0, "_classname": "foxglove", "_label": 93}
+{"_impath": "oxford_flowers/jpg/image_07348.jpg", "_domain": 0, "_classname": "foxglove", "_label": 93}
+{"_impath": "oxford_flowers/jpg/image_07531.jpg", "_domain": 0, "_classname": "bougainvillea", "_label": 94}
+{"_impath": "oxford_flowers/jpg/image_07556.jpg", "_domain": 0, "_classname": "bougainvillea", "_label": 94}
+{"_impath": "oxford_flowers/jpg/image_07555.jpg", "_domain": 0, "_classname": "bougainvillea", "_label": 94}
+{"_impath": "oxford_flowers/jpg/image_07507.jpg", "_domain": 0, "_classname": "bougainvillea", "_label": 94}
+{"_impath": "oxford_flowers/jpg/image_07679.jpg", "_domain": 0, "_classname": "camellia", "_label": 95}
+{"_impath": "oxford_flowers/jpg/image_07664.jpg", "_domain": 0, "_classname": "camellia", "_label": 95}
+{"_impath": "oxford_flowers/jpg/image_07653.jpg", "_domain": 0, "_classname": "camellia", "_label": 95}
+{"_impath": "oxford_flowers/jpg/image_07648.jpg", "_domain": 0, "_classname": "camellia", "_label": 95}
+{"_impath": "oxford_flowers/jpg/image_07729.jpg", "_domain": 0, "_classname": "mallow", "_label": 96}
+{"_impath": "oxford_flowers/jpg/image_07725.jpg", "_domain": 0, "_classname": "mallow", "_label": 96}
+{"_impath": "oxford_flowers/jpg/image_07710.jpg", "_domain": 0, "_classname": "mallow", "_label": 96}
+{"_impath": "oxford_flowers/jpg/image_07691.jpg", "_domain": 0, "_classname": "mallow", "_label": 96}
+{"_impath": "oxford_flowers/jpg/image_07780.jpg", "_domain": 0, "_classname": "mexican petunia", "_label": 97}
+{"_impath": "oxford_flowers/jpg/image_07832.jpg", "_domain": 0, "_classname": "mexican petunia", "_label": 97}
+{"_impath": "oxford_flowers/jpg/image_07790.jpg", "_domain": 0, "_classname": "mexican petunia", "_label": 97}
+{"_impath": "oxford_flowers/jpg/image_07756.jpg", "_domain": 0, "_classname": "mexican petunia", "_label": 97}
+{"_impath": "oxford_flowers/jpg/image_07853.jpg", "_domain": 0, "_classname": "bromelia", "_label": 98}
+{"_impath": "oxford_flowers/jpg/image_08064.jpg", "_domain": 0, "_classname": "bromelia", "_label": 98}
+{"_impath": "oxford_flowers/jpg/image_07885.jpg", "_domain": 0, "_classname": "bromelia", "_label": 98}
+{"_impath": "oxford_flowers/jpg/image_07870.jpg", "_domain": 0, "_classname": "bromelia", "_label": 98}
+{"_impath": "oxford_flowers/jpg/image_07941.jpg", "_domain": 0, "_classname": "blanket flower", "_label": 99}
+{"_impath": "oxford_flowers/jpg/image_07896.jpg", "_domain": 0, "_classname": "blanket flower", "_label": 99}
+{"_impath": "oxford_flowers/jpg/image_07923.jpg", "_domain": 0, "_classname": "blanket flower", "_label": 99}
+{"_impath": "oxford_flowers/jpg/image_07894.jpg", "_domain": 0, "_classname": "blanket flower", "_label": 99}
+{"_impath": "oxford_flowers/jpg/image_07942.jpg", "_domain": 0, "_classname": "trumpet creeper", "_label": 100}
+{"_impath": "oxford_flowers/jpg/image_07952.jpg", "_domain": 0, "_classname": "trumpet creeper", "_label": 100}
+{"_impath": "oxford_flowers/jpg/image_07977.jpg", "_domain": 0, "_classname": "trumpet creeper", "_label": 100}
+{"_impath": "oxford_flowers/jpg/image_07973.jpg", "_domain": 0, "_classname": "trumpet creeper", "_label": 100}
+{"_impath": "oxford_flowers/jpg/image_08009.jpg", "_domain": 0, "_classname": "blackberry lily", "_label": 101}
+{"_impath": "oxford_flowers/jpg/image_08043.jpg", "_domain": 0, "_classname": "blackberry lily", "_label": 101}
+{"_impath": "oxford_flowers/jpg/image_08019.jpg", "_domain": 0, "_classname": "blackberry lily", "_label": 101}
+{"_impath": "oxford_flowers/jpg/image_08027.jpg", "_domain": 0, "_classname": "blackberry lily", "_label": 101}

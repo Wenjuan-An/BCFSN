@@ -1,0 +1,10 @@
+{"_impath": "eurosat/2750/AnnualCrop/AnnualCrop_1201.jpg", "_domain": 0, "_classname": "Annual Crop Land", "_label": 0}
+{"_impath": "eurosat/2750/Forest/Forest_2787.jpg", "_domain": 0, "_classname": "Forest", "_label": 1}
+{"_impath": "eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_1860.jpg", "_domain": 0, "_classname": "Herbaceous Vegetation Land", "_label": 2}
+{"_impath": "eurosat/2750/Highway/Highway_1374.jpg", "_domain": 0, "_classname": "Highway or Road", "_label": 3}
+{"_impath": "eurosat/2750/Industrial/Industrial_1977.jpg", "_domain": 0, "_classname": "Industrial Buildings", "_label": 4}
+{"_impath": "eurosat/2750/Pasture/Pasture_394.jpg", "_domain": 0, "_classname": "Pasture Land", "_label": 5}
+{"_impath": "eurosat/2750/PermanentCrop/PermanentCrop_185.jpg", "_domain": 0, "_classname": "Permanent Crop Land", "_label": 6}
+{"_impath": "eurosat/2750/Residential/Residential_2145.jpg", "_domain": 0, "_classname": "Residential Buildings", "_label": 7}
+{"_impath": "eurosat/2750/River/River_48.jpg", "_domain": 0, "_classname": "River", "_label": 8}
+{"_impath": "eurosat/2750/SeaLake/SeaLake_2508.jpg", "_domain": 0, "_classname": "Sea or Lake", "_label": 9}

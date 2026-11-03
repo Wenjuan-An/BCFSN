@@ -1,0 +1,12 @@
+# Direct runtime dependencies. Versions are retained from the supplied environment.
+# Install the appropriate CUDA build of torch/torchvision before this file.
+torch==2.6.0
+torchvision==0.21.0
+numpy==2.2.4
+pandas==2.2.3
+scipy==1.15.2
+pillow==11.1.0
+ftfy==6.3.1
+regex==2024.11.6
+tqdm==4.67.1
+gdown==5.2.0

@@ -1,0 +1,27 @@
+# Python and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+
+# Local data, model weights, and experiment outputs
+/data/
+/results*/
+/logs/
+/log/
+/summaries/
+/checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.log
+/downloaded_splits_*/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

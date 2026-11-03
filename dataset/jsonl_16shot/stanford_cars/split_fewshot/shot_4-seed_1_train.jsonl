@@ -1,0 +1,784 @@
+{"_impath": "stanford_cars/cars_train/00467.jpg", "_domain": 0, "_classname": "2012 Audi TTS Coupe", "_label": 13}
+{"_impath": "stanford_cars/cars_train/03804.jpg", "_domain": 0, "_classname": "2012 Audi TTS Coupe", "_label": 13}
+{"_impath": "stanford_cars/cars_train/03590.jpg", "_domain": 0, "_classname": "2012 Audi TTS Coupe", "_label": 13}
+{"_impath": "stanford_cars/cars_train/02007.jpg", "_domain": 0, "_classname": "2012 Audi TTS Coupe", "_label": 13}
+{"_impath": "stanford_cars/cars_train/05333.jpg", "_domain": 0, "_classname": "2012 Acura TL Sedan", "_label": 2}
+{"_impath": "stanford_cars/cars_train/06328.jpg", "_domain": 0, "_classname": "2012 Acura TL Sedan", "_label": 2}
+{"_impath": "stanford_cars/cars_train/08005.jpg", "_domain": 0, "_classname": "2012 Acura TL Sedan", "_label": 2}
+{"_impath": "stanford_cars/cars_train/01870.jpg", "_domain": 0, "_classname": "2012 Acura TL Sedan", "_label": 2}
+{"_impath": "stanford_cars/cars_train/00051.jpg", "_domain": 0, "_classname": "2007 Dodge Dakota Club Cab", "_label": 90}
+{"_impath": "stanford_cars/cars_train/01414.jpg", "_domain": 0, "_classname": "2007 Dodge Dakota Club Cab", "_label": 90}
+{"_impath": "stanford_cars/cars_train/02448.jpg", "_domain": 0, "_classname": "2007 Dodge Dakota Club Cab", "_label": 90}
+{"_impath": "stanford_cars/cars_train/03683.jpg", "_domain": 0, "_classname": "2007 Dodge Dakota Club Cab", "_label": 90}
+{"_impath": "stanford_cars/cars_train/06143.jpg", "_domain": 0, "_classname": "2012 Hyundai Sonata Hybrid Sedan", "_label": 133}
+{"_impath": "stanford_cars/cars_train/06733.jpg", "_domain": 0, "_classname": "2012 Hyundai Sonata Hybrid Sedan", "_label": 133}
+{"_impath": "stanford_cars/cars_train/00004.jpg", "_domain": 0, "_classname": "2012 Hyundai Sonata Hybrid Sedan", "_label": 133}
+{"_impath": "stanford_cars/cars_train/06138.jpg", "_domain": 0, "_classname": "2012 Hyundai Sonata Hybrid Sedan", "_label": 133}
+{"_impath": "stanford_cars/cars_train/07775.jpg", "_domain": 0, "_classname": "2012 Ford F-450 Super Duty Crew Cab", "_label": 105}
+{"_impath": "stanford_cars/cars_train/03176.jpg", "_domain": 0, "_classname": "2012 Ford F-450 Super Duty Crew Cab", "_label": 105}
+{"_impath": "stanford_cars/cars_train/07083.jpg", "_domain": 0, "_classname": "2012 Ford F-450 Super Duty Crew Cab", "_label": 105}
+{"_impath": "stanford_cars/cars_train/04293.jpg", "_domain": 0, "_classname": "2012 Ford F-450 Super Duty Crew Cab", "_label": 105}
+{"_impath": "stanford_cars/cars_train/02428.jpg", "_domain": 0, "_classname": "1993 Geo Metro Convertible", "_label": 122}
+{"_impath": "stanford_cars/cars_train/03431.jpg", "_domain": 0, "_classname": "1993 Geo Metro Convertible", "_label": 122}
+{"_impath": "stanford_cars/cars_train/03098.jpg", "_domain": 0, "_classname": "1993 Geo Metro Convertible", "_label": 122}
+{"_impath": "stanford_cars/cars_train/04022.jpg", "_domain": 0, "_classname": "1993 Geo Metro Convertible", "_label": 122}
+{"_impath": "stanford_cars/cars_train/00132.jpg", "_domain": 0, "_classname": "2012 Dodge Journey SUV", "_label": 88}
+{"_impath": "stanford_cars/cars_train/07020.jpg", "_domain": 0, "_classname": "2012 Dodge Journey SUV", "_label": 88}
+{"_impath": "stanford_cars/cars_train/03837.jpg", "_domain": 0, "_classname": "2012 Dodge Journey SUV", "_label": 88}
+{"_impath": "stanford_cars/cars_train/01259.jpg", "_domain": 0, "_classname": "2012 Dodge Journey SUV", "_label": 88}
+{"_impath": "stanford_cars/cars_train/04283.jpg", "_domain": 0, "_classname": "2012 Dodge Charger Sedan", "_label": 95}
+{"_impath": "stanford_cars/cars_train/02078.jpg", "_domain": 0, "_classname": "2012 Dodge Charger Sedan", "_label": 95}
+{"_impath": "stanford_cars/cars_train/02110.jpg", "_domain": 0, "_classname": "2012 Dodge Charger Sedan", "_label": 95}
+{"_impath": "stanford_cars/cars_train/00969.jpg", "_domain": 0, "_classname": "2012 Dodge Charger Sedan", "_label": 95}
+{"_impath": "stanford_cars/cars_train/02826.jpg", "_domain": 0, "_classname": "2012 Mitsubishi Lancer Sedan", "_label": 166}
+{"_impath": "stanford_cars/cars_train/06980.jpg", "_domain": 0, "_classname": "2012 Mitsubishi Lancer Sedan", "_label": 166}
+{"_impath": "stanford_cars/cars_train/07748.jpg", "_domain": 0, "_classname": "2012 Mitsubishi Lancer Sedan", "_label": 166}
+{"_impath": "stanford_cars/cars_train/04766.jpg", "_domain": 0, "_classname": "2012 Mitsubishi Lancer Sedan", "_label": 166}
+{"_impath": "stanford_cars/cars_train/02432.jpg", "_domain": 0, "_classname": "2012 Chevrolet Traverse SUV", "_label": 57}
+{"_impath": "stanford_cars/cars_train/00999.jpg", "_domain": 0, "_classname": "2012 Chevrolet Traverse SUV", "_label": 57}
+{"_impath": "stanford_cars/cars_train/00383.jpg", "_domain": 0, "_classname": "2012 Chevrolet Traverse SUV", "_label": 57}
+{"_impath": "stanford_cars/cars_train/06508.jpg", "_domain": 0, "_classname": "2012 Chevrolet Traverse SUV", "_label": 57}
+{"_impath": "stanford_cars/cars_train/02420.jpg", "_domain": 0, "_classname": "2012 Buick Verano Sedan", "_label": 48}
+{"_impath": "stanford_cars/cars_train/04073.jpg", "_domain": 0, "_classname": "2012 Buick Verano Sedan", "_label": 48}
+{"_impath": "stanford_cars/cars_train/07528.jpg", "_domain": 0, "_classname": "2012 Buick Verano Sedan", "_label": 48}
+{"_impath": "stanford_cars/cars_train/02450.jpg", "_domain": 0, "_classname": "2012 Buick Verano Sedan", "_label": 48}
+{"_impath": "stanford_cars/cars_train/04501.jpg", "_domain": 0, "_classname": "2012 Toyota Sequoia SUV", "_label": 185}
+{"_impath": "stanford_cars/cars_train/00012.jpg", "_domain": 0, "_classname": "2012 Toyota Sequoia SUV", "_label": 185}
+{"_impath": "stanford_cars/cars_train/07288.jpg", "_domain": 0, "_classname": "2012 Toyota Sequoia SUV", "_label": 185}
+{"_impath": "stanford_cars/cars_train/04573.jpg", "_domain": 0, "_classname": "2012 Toyota Sequoia SUV", "_label": 185}
+{"_impath": "stanford_cars/cars_train/01035.jpg", "_domain": 0, "_classname": "2007 Hyundai Elantra Sedan", "_label": 134}
+{"_impath": "stanford_cars/cars_train/02951.jpg", "_domain": 0, "_classname": "2007 Hyundai Elantra Sedan", "_label": 134}
+{"_impath": "stanford_cars/cars_train/04158.jpg", "_domain": 0, "_classname": "2007 Hyundai Elantra Sedan", "_label": 134}
+{"_impath": "stanford_cars/cars_train/06115.jpg", "_domain": 0, "_classname": "2007 Hyundai Elantra Sedan", "_label": 134}
+{"_impath": "stanford_cars/cars_train/04170.jpg", "_domain": 0, "_classname": "1997 Dodge Caravan Minivan", "_label": 84}
+{"_impath": "stanford_cars/cars_train/07170.jpg", "_domain": 0, "_classname": "1997 Dodge Caravan Minivan", "_label": 84}
+{"_impath": "stanford_cars/cars_train/08105.jpg", "_domain": 0, "_classname": "1997 Dodge Caravan Minivan", "_label": 84}
+{"_impath": "stanford_cars/cars_train/06333.jpg", "_domain": 0, "_classname": "1997 Dodge Caravan Minivan", "_label": 84}
+{"_impath": "stanford_cars/cars_train/03555.jpg", "_domain": 0, "_classname": "2012 Volvo C30 Hatchback", "_label": 192}
+{"_impath": "stanford_cars/cars_train/03759.jpg", "_domain": 0, "_classname": "2012 Volvo C30 Hatchback", "_label": 192}
+{"_impath": "stanford_cars/cars_train/04355.jpg", "_domain": 0, "_classname": "2012 Volvo C30 Hatchback", "_label": 192}
+{"_impath": "stanford_cars/cars_train/01112.jpg", "_domain": 0, "_classname": "2012 Volvo C30 Hatchback", "_label": 192}
+{"_impath": "stanford_cars/cars_train/04304.jpg", "_domain": 0, "_classname": "1999 Plymouth Neon Coupe", "_label": 171}
+{"_impath": "stanford_cars/cars_train/00537.jpg", "_domain": 0, "_classname": "1999 Plymouth Neon Coupe", "_label": 171}
+{"_impath": "stanford_cars/cars_train/01310.jpg", "_domain": 0, "_classname": "1999 Plymouth Neon Coupe", "_label": 171}
+{"_impath": "stanford_cars/cars_train/02527.jpg", "_domain": 0, "_classname": "1999 Plymouth Neon Coupe", "_label": 171}
+{"_impath": "stanford_cars/cars_train/02876.jpg", "_domain": 0, "_classname": "2007 Chevrolet Malibu Sedan", "_label": 72}
+{"_impath": "stanford_cars/cars_train/07809.jpg", "_domain": 0, "_classname": "2007 Chevrolet Malibu Sedan", "_label": 72}
+{"_impath": "stanford_cars/cars_train/00312.jpg", "_domain": 0, "_classname": "2007 Chevrolet Malibu Sedan", "_label": 72}
+{"_impath": "stanford_cars/cars_train/03216.jpg", "_domain": 0, "_classname": "2007 Chevrolet Malibu Sedan", "_label": 72}
+{"_impath": "stanford_cars/cars_train/01080.jpg", "_domain": 0, "_classname": "2012 Volkswagen Beetle Hatchback", "_label": 191}
+{"_impath": "stanford_cars/cars_train/01997.jpg", "_domain": 0, "_classname": "2012 Volkswagen Beetle Hatchback", "_label": 191}
+{"_impath": "stanford_cars/cars_train/07890.jpg", "_domain": 0, "_classname": "2012 Volkswagen Beetle Hatchback", "_label": 191}
+{"_impath": "stanford_cars/cars_train/00019.jpg", "_domain": 0, "_classname": "2012 Volkswagen Beetle Hatchback", "_label": 191}
+{"_impath": "stanford_cars/cars_train/00418.jpg", "_domain": 0, "_classname": "2007 Chevrolet Corvette Ron Fellows Edition Z06", "_label": 56}
+{"_impath": "stanford_cars/cars_train/02134.jpg", "_domain": 0, "_classname": "2007 Chevrolet Corvette Ron Fellows Edition Z06", "_label": 56}
+{"_impath": "stanford_cars/cars_train/02257.jpg", "_domain": 0, "_classname": "2007 Chevrolet Corvette Ron Fellows Edition Z06", "_label": 56}
+{"_impath": "stanford_cars/cars_train/07831.jpg", "_domain": 0, "_classname": "2007 Chevrolet Corvette Ron Fellows Edition Z06", "_label": 56}
+{"_impath": "stanford_cars/cars_train/05015.jpg", "_domain": 0, "_classname": "2010 Chrysler 300 SRT-8", "_label": 78}
+{"_impath": "stanford_cars/cars_train/02849.jpg", "_domain": 0, "_classname": "2010 Chrysler 300 SRT-8", "_label": 78}
+{"_impath": "stanford_cars/cars_train/07643.jpg", "_domain": 0, "_classname": "2010 Chrysler 300 SRT-8", "_label": 78}
+{"_impath": "stanford_cars/cars_train/00444.jpg", "_domain": 0, "_classname": "2010 Chrysler 300 SRT-8", "_label": 78}
+{"_impath": "stanford_cars/cars_train/02516.jpg", "_domain": 0, "_classname": "2010 BMW M6 Convertible", "_label": 35}
+{"_impath": "stanford_cars/cars_train/01919.jpg", "_domain": 0, "_classname": "2010 BMW M6 Convertible", "_label": 35}
+{"_impath": "stanford_cars/cars_train/03538.jpg", "_domain": 0, "_classname": "2010 BMW M6 Convertible", "_label": 35}
+{"_impath": "stanford_cars/cars_train/05719.jpg", "_domain": 0, "_classname": "2010 BMW M6 Convertible", "_label": 35}
+{"_impath": "stanford_cars/cars_train/00777.jpg", "_domain": 0, "_classname": "2012 GMC Yukon Hybrid SUV", "_label": 119}
+{"_impath": "stanford_cars/cars_train/05151.jpg", "_domain": 0, "_classname": "2012 GMC Yukon Hybrid SUV", "_label": 119}
+{"_impath": "stanford_cars/cars_train/07685.jpg", "_domain": 0, "_classname": "2012 GMC Yukon Hybrid SUV", "_label": 119}
+{"_impath": "stanford_cars/cars_train/02179.jpg", "_domain": 0, "_classname": "2012 GMC Yukon Hybrid SUV", "_label": 119}
+{"_impath": "stanford_cars/cars_train/01386.jpg", "_domain": 0, "_classname": "2012 Nissan Juke Hatchback", "_label": 169}
+{"_impath": "stanford_cars/cars_train/03423.jpg", "_domain": 0, "_classname": "2012 Nissan Juke Hatchback", "_label": 169}
+{"_impath": "stanford_cars/cars_train/03125.jpg", "_domain": 0, "_classname": "2012 Nissan Juke Hatchback", "_label": 169}
+{"_impath": "stanford_cars/cars_train/02163.jpg", "_domain": 0, "_classname": "2012 Nissan Juke Hatchback", "_label": 169}
+{"_impath": "stanford_cars/cars_train/02344.jpg", "_domain": 0, "_classname": "1993 Volvo 240 Sedan", "_label": 193}
+{"_impath": "stanford_cars/cars_train/01015.jpg", "_domain": 0, "_classname": "1993 Volvo 240 Sedan", "_label": 193}
+{"_impath": "stanford_cars/cars_train/05169.jpg", "_domain": 0, "_classname": "1993 Volvo 240 Sedan", "_label": 193}
+{"_impath": "stanford_cars/cars_train/07633.jpg", "_domain": 0, "_classname": "1993 Volvo 240 Sedan", "_label": 193}
+{"_impath": "stanford_cars/cars_train/07707.jpg", "_domain": 0, "_classname": "2012 Suzuki SX4 Sedan", "_label": 183}
+{"_impath": "stanford_cars/cars_train/00796.jpg", "_domain": 0, "_classname": "2012 Suzuki SX4 Sedan", "_label": 183}
+{"_impath": "stanford_cars/cars_train/00719.jpg", "_domain": 0, "_classname": "2012 Suzuki SX4 Sedan", "_label": 183}
+{"_impath": "stanford_cars/cars_train/04141.jpg", "_domain": 0, "_classname": "2012 Suzuki SX4 Sedan", "_label": 183}
+{"_impath": "stanford_cars/cars_train/02599.jpg", "_domain": 0, "_classname": "2010 Dodge Ram Pickup 3500 Crew Cab", "_label": 85}
+{"_impath": "stanford_cars/cars_train/00495.jpg", "_domain": 0, "_classname": "2010 Dodge Ram Pickup 3500 Crew Cab", "_label": 85}
+{"_impath": "stanford_cars/cars_train/07064.jpg", "_domain": 0, "_classname": "2010 Dodge Ram Pickup 3500 Crew Cab", "_label": 85}
+{"_impath": "stanford_cars/cars_train/01947.jpg", "_domain": 0, "_classname": "2010 Dodge Ram Pickup 3500 Crew Cab", "_label": 85}
+{"_impath": "stanford_cars/cars_train/01510.jpg", "_domain": 0, "_classname": "2009 Spyker C8 Coupe", "_label": 179}
+{"_impath": "stanford_cars/cars_train/06785.jpg", "_domain": 0, "_classname": "2009 Spyker C8 Coupe", "_label": 179}
+{"_impath": "stanford_cars/cars_train/05211.jpg", "_domain": 0, "_classname": "2009 Spyker C8 Coupe", "_label": 179}
+{"_impath": "stanford_cars/cars_train/05053.jpg", "_domain": 0, "_classname": "2009 Spyker C8 Coupe", "_label": 179}
+{"_impath": "stanford_cars/cars_train/03567.jpg", "_domain": 0, "_classname": "2012 Land Rover Range Rover SUV", "_label": 153}
+{"_impath": "stanford_cars/cars_train/07991.jpg", "_domain": 0, "_classname": "2012 Land Rover Range Rover SUV", "_label": 153}
+{"_impath": "stanford_cars/cars_train/04961.jpg", "_domain": 0, "_classname": "2012 Land Rover Range Rover SUV", "_label": 153}
+{"_impath": "stanford_cars/cars_train/01797.jpg", "_domain": 0, "_classname": "2012 Land Rover Range Rover SUV", "_label": 153}
+{"_impath": "stanford_cars/cars_train/02217.jpg", "_domain": 0, "_classname": "2012 Hyundai Elantra Touring Hatchback", "_label": 138}
+{"_impath": "stanford_cars/cars_train/06918.jpg", "_domain": 0, "_classname": "2012 Hyundai Elantra Touring Hatchback", "_label": 138}
+{"_impath": "stanford_cars/cars_train/01475.jpg", "_domain": 0, "_classname": "2012 Hyundai Elantra Touring Hatchback", "_label": 138}
+{"_impath": "stanford_cars/cars_train/05134.jpg", "_domain": 0, "_classname": "2012 Hyundai Elantra Touring Hatchback", "_label": 138}
+{"_impath": "stanford_cars/cars_train/07254.jpg", "_domain": 0, "_classname": "2010 Chevrolet Cobalt SS", "_label": 65}
+{"_impath": "stanford_cars/cars_train/01107.jpg", "_domain": 0, "_classname": "2010 Chevrolet Cobalt SS", "_label": 65}
+{"_impath": "stanford_cars/cars_train/07437.jpg", "_domain": 0, "_classname": "2010 Chevrolet Cobalt SS", "_label": 65}
+{"_impath": "stanford_cars/cars_train/08077.jpg", "_domain": 0, "_classname": "2010 Chevrolet Cobalt SS", "_label": 65}
+{"_impath": "stanford_cars/cars_train/02080.jpg", "_domain": 0, "_classname": "2012 Hyundai Veracruz SUV", "_label": 132}
+{"_impath": "stanford_cars/cars_train/03598.jpg", "_domain": 0, "_classname": "2012 Hyundai Veracruz SUV", "_label": 132}
+{"_impath": "stanford_cars/cars_train/07189.jpg", "_domain": 0, "_classname": "2012 Hyundai Veracruz SUV", "_label": 132}
+{"_impath": "stanford_cars/cars_train/00079.jpg", "_domain": 0, "_classname": "2012 Hyundai Veracruz SUV", "_label": 132}
+{"_impath": "stanford_cars/cars_train/01426.jpg", "_domain": 0, "_classname": "2012 Ferrari 458 Italia Coupe", "_label": 103}
+{"_impath": "stanford_cars/cars_train/07221.jpg", "_domain": 0, "_classname": "2012 Ferrari 458 Italia Coupe", "_label": 103}
+{"_impath": "stanford_cars/cars_train/01516.jpg", "_domain": 0, "_classname": "2012 Ferrari 458 Italia Coupe", "_label": 103}
+{"_impath": "stanford_cars/cars_train/05398.jpg", "_domain": 0, "_classname": "2012 Ferrari 458 Italia Coupe", "_label": 103}
+{"_impath": "stanford_cars/cars_train/04487.jpg", "_domain": 0, "_classname": "2012 BMW Z4 Convertible", "_label": 37}
+{"_impath": "stanford_cars/cars_train/05337.jpg", "_domain": 0, "_classname": "2012 BMW Z4 Convertible", "_label": 37}
+{"_impath": "stanford_cars/cars_train/01994.jpg", "_domain": 0, "_classname": "2012 BMW Z4 Convertible", "_label": 37}
+{"_impath": "stanford_cars/cars_train/05094.jpg", "_domain": 0, "_classname": "2012 BMW Z4 Convertible", "_label": 37}
+{"_impath": "stanford_cars/cars_train/05201.jpg", "_domain": 0, "_classname": "2009 Dodge Charger SRT-8", "_label": 96}
+{"_impath": "stanford_cars/cars_train/02651.jpg", "_domain": 0, "_classname": "2009 Dodge Charger SRT-8", "_label": 96}
+{"_impath": "stanford_cars/cars_train/07030.jpg", "_domain": 0, "_classname": "2009 Dodge Charger SRT-8", "_label": 96}
+{"_impath": "stanford_cars/cars_train/01377.jpg", "_domain": 0, "_classname": "2009 Dodge Charger SRT-8", "_label": 96}
+{"_impath": "stanford_cars/cars_train/03563.jpg", "_domain": 0, "_classname": "2012 Fisker Karma Sedan", "_label": 104}
+{"_impath": "stanford_cars/cars_train/02552.jpg", "_domain": 0, "_classname": "2012 Fisker Karma Sedan", "_label": 104}
+{"_impath": "stanford_cars/cars_train/05136.jpg", "_domain": 0, "_classname": "2012 Fisker Karma Sedan", "_label": 104}
+{"_impath": "stanford_cars/cars_train/05934.jpg", "_domain": 0, "_classname": "2012 Fisker Karma Sedan", "_label": 104}
+{"_impath": "stanford_cars/cars_train/07997.jpg", "_domain": 0, "_classname": "2011 Infiniti QX56 SUV", "_label": 141}
+{"_impath": "stanford_cars/cars_train/06681.jpg", "_domain": 0, "_classname": "2011 Infiniti QX56 SUV", "_label": 141}
+{"_impath": "stanford_cars/cars_train/06955.jpg", "_domain": 0, "_classname": "2011 Infiniti QX56 SUV", "_label": 141}
+{"_impath": "stanford_cars/cars_train/05279.jpg", "_domain": 0, "_classname": "2011 Infiniti QX56 SUV", "_label": 141}
+{"_impath": "stanford_cars/cars_train/06570.jpg", "_domain": 0, "_classname": "2012 Audi A5 Coupe", "_label": 12}
+{"_impath": "stanford_cars/cars_train/02431.jpg", "_domain": 0, "_classname": "2012 Audi A5 Coupe", "_label": 12}
+{"_impath": "stanford_cars/cars_train/05315.jpg", "_domain": 0, "_classname": "2012 Audi A5 Coupe", "_label": 12}
+{"_impath": "stanford_cars/cars_train/03654.jpg", "_domain": 0, "_classname": "2012 Audi A5 Coupe", "_label": 12}
+{"_impath": "stanford_cars/cars_train/04514.jpg", "_domain": 0, "_classname": "1991 Volkswagen Golf Hatchback", "_label": 190}
+{"_impath": "stanford_cars/cars_train/02417.jpg", "_domain": 0, "_classname": "1991 Volkswagen Golf Hatchback", "_label": 190}
+{"_impath": "stanford_cars/cars_train/03596.jpg", "_domain": 0, "_classname": "1991 Volkswagen Golf Hatchback", "_label": 190}
+{"_impath": "stanford_cars/cars_train/04661.jpg", "_domain": 0, "_classname": "1991 Volkswagen Golf Hatchback", "_label": 190}
+{"_impath": "stanford_cars/cars_train/06470.jpg", "_domain": 0, "_classname": "2012 GMC Savana Van", "_label": 118}
+{"_impath": "stanford_cars/cars_train/08013.jpg", "_domain": 0, "_classname": "2012 GMC Savana Van", "_label": 118}
+{"_impath": "stanford_cars/cars_train/05318.jpg", "_domain": 0, "_classname": "2012 GMC Savana Van", "_label": 118}
+{"_impath": "stanford_cars/cars_train/01000.jpg", "_domain": 0, "_classname": "2012 GMC Savana Van", "_label": 118}
+{"_impath": "stanford_cars/cars_train/01092.jpg", "_domain": 0, "_classname": "2012 Audi TT RS Coupe", "_label": 24}
+{"_impath": "stanford_cars/cars_train/05886.jpg", "_domain": 0, "_classname": "2012 Audi TT RS Coupe", "_label": 24}
+{"_impath": "stanford_cars/cars_train/04822.jpg", "_domain": 0, "_classname": "2012 Audi TT RS Coupe", "_label": 24}
+{"_impath": "stanford_cars/cars_train/05040.jpg", "_domain": 0, "_classname": "2012 Audi TT RS Coupe", "_label": 24}
+{"_impath": "stanford_cars/cars_train/05172.jpg", "_domain": 0, "_classname": "2012 Rolls-Royce Phantom Sedan", "_label": 176}
+{"_impath": "stanford_cars/cars_train/05393.jpg", "_domain": 0, "_classname": "2012 Rolls-Royce Phantom Sedan", "_label": 176}
+{"_impath": "stanford_cars/cars_train/04568.jpg", "_domain": 0, "_classname": "2012 Rolls-Royce Phantom Sedan", "_label": 176}
+{"_impath": "stanford_cars/cars_train/00118.jpg", "_domain": 0, "_classname": "2012 Rolls-Royce Phantom Sedan", "_label": 176}
+{"_impath": "stanford_cars/cars_train/01554.jpg", "_domain": 0, "_classname": "2012 Porsche Panamera Sedan", "_label": 172}
+{"_impath": "stanford_cars/cars_train/03958.jpg", "_domain": 0, "_classname": "2012 Porsche Panamera Sedan", "_label": 172}
+{"_impath": "stanford_cars/cars_train/07932.jpg", "_domain": 0, "_classname": "2012 Porsche Panamera Sedan", "_label": 172}
+{"_impath": "stanford_cars/cars_train/06300.jpg", "_domain": 0, "_classname": "2012 Porsche Panamera Sedan", "_label": 172}
+{"_impath": "stanford_cars/cars_train/00050.jpg", "_domain": 0, "_classname": "2012 Bentley Continental GT Coupe", "_label": 41}
+{"_impath": "stanford_cars/cars_train/07157.jpg", "_domain": 0, "_classname": "2012 Bentley Continental GT Coupe", "_label": 41}
+{"_impath": "stanford_cars/cars_train/00926.jpg", "_domain": 0, "_classname": "2012 Bentley Continental GT Coupe", "_label": 41}
+{"_impath": "stanford_cars/cars_train/05066.jpg", "_domain": 0, "_classname": "2012 Bentley Continental GT Coupe", "_label": 41}
+{"_impath": "stanford_cars/cars_train/06077.jpg", "_domain": 0, "_classname": "2012 Jeep Grand Cherokee SUV", "_label": 147}
+{"_impath": "stanford_cars/cars_train/00916.jpg", "_domain": 0, "_classname": "2012 Jeep Grand Cherokee SUV", "_label": 147}
+{"_impath": "stanford_cars/cars_train/02129.jpg", "_domain": 0, "_classname": "2012 Jeep Grand Cherokee SUV", "_label": 147}
+{"_impath": "stanford_cars/cars_train/07588.jpg", "_domain": 0, "_classname": "2012 Jeep Grand Cherokee SUV", "_label": 147}
+{"_impath": "stanford_cars/cars_train/01486.jpg", "_domain": 0, "_classname": "2012 Audi R8 Coupe", "_label": 14}
+{"_impath": "stanford_cars/cars_train/06869.jpg", "_domain": 0, "_classname": "2012 Audi R8 Coupe", "_label": 14}
+{"_impath": "stanford_cars/cars_train/07408.jpg", "_domain": 0, "_classname": "2012 Audi R8 Coupe", "_label": 14}
+{"_impath": "stanford_cars/cars_train/02632.jpg", "_domain": 0, "_classname": "2012 Audi R8 Coupe", "_label": 14}
+{"_impath": "stanford_cars/cars_train/04154.jpg", "_domain": 0, "_classname": "2007 Cadillac Escalade EXT Crew Cab", "_label": 52}
+{"_impath": "stanford_cars/cars_train/00364.jpg", "_domain": 0, "_classname": "2007 Cadillac Escalade EXT Crew Cab", "_label": 52}
+{"_impath": "stanford_cars/cars_train/05564.jpg", "_domain": 0, "_classname": "2007 Cadillac Escalade EXT Crew Cab", "_label": 52}
+{"_impath": "stanford_cars/cars_train/07426.jpg", "_domain": 0, "_classname": "2007 Cadillac Escalade EXT Crew Cab", "_label": 52}
+{"_impath": "stanford_cars/cars_train/07797.jpg", "_domain": 0, "_classname": "2007 Bentley Continental Flying Spur Sedan", "_label": 43}
+{"_impath": "stanford_cars/cars_train/02096.jpg", "_domain": 0, "_classname": "2007 Bentley Continental Flying Spur Sedan", "_label": 43}
+{"_impath": "stanford_cars/cars_train/07948.jpg", "_domain": 0, "_classname": "2007 Bentley Continental Flying Spur Sedan", "_label": 43}
+{"_impath": "stanford_cars/cars_train/06505.jpg", "_domain": 0, "_classname": "2007 Bentley Continental Flying Spur Sedan", "_label": 43}
+{"_impath": "stanford_cars/cars_train/01652.jpg", "_domain": 0, "_classname": "2012 Chevrolet Avalanche Crew Cab", "_label": 64}
+{"_impath": "stanford_cars/cars_train/07584.jpg", "_domain": 0, "_classname": "2012 Chevrolet Avalanche Crew Cab", "_label": 64}
+{"_impath": "stanford_cars/cars_train/05309.jpg", "_domain": 0, "_classname": "2012 Chevrolet Avalanche Crew Cab", "_label": 64}
+{"_impath": "stanford_cars/cars_train/01471.jpg", "_domain": 0, "_classname": "2012 Chevrolet Avalanche Crew Cab", "_label": 64}
+{"_impath": "stanford_cars/cars_train/02790.jpg", "_domain": 0, "_classname": "2010 Dodge Dakota Crew Cab", "_label": 89}
+{"_impath": "stanford_cars/cars_train/03132.jpg", "_domain": 0, "_classname": "2010 Dodge Dakota Crew Cab", "_label": 89}
+{"_impath": "stanford_cars/cars_train/03577.jpg", "_domain": 0, "_classname": "2010 Dodge Dakota Crew Cab", "_label": 89}
+{"_impath": "stanford_cars/cars_train/06564.jpg", "_domain": 0, "_classname": "2010 Dodge Dakota Crew Cab", "_label": 89}
+{"_impath": "stanford_cars/cars_train/03706.jpg", "_domain": 0, "_classname": "2010 HUMMER H3T Crew Cab", "_label": 123}
+{"_impath": "stanford_cars/cars_train/02793.jpg", "_domain": 0, "_classname": "2010 HUMMER H3T Crew Cab", "_label": 123}
+{"_impath": "stanford_cars/cars_train/00477.jpg", "_domain": 0, "_classname": "2010 HUMMER H3T Crew Cab", "_label": 123}
+{"_impath": "stanford_cars/cars_train/03798.jpg", "_domain": 0, "_classname": "2010 HUMMER H3T Crew Cab", "_label": 123}
+{"_impath": "stanford_cars/cars_train/00842.jpg", "_domain": 0, "_classname": "2007 Ford F-150 Regular Cab", "_label": 113}
+{"_impath": "stanford_cars/cars_train/03725.jpg", "_domain": 0, "_classname": "2007 Ford F-150 Regular Cab", "_label": 113}
+{"_impath": "stanford_cars/cars_train/00715.jpg", "_domain": 0, "_classname": "2007 Ford F-150 Regular Cab", "_label": 113}
+{"_impath": "stanford_cars/cars_train/01067.jpg", "_domain": 0, "_classname": "2007 Ford F-150 Regular Cab", "_label": 113}
+{"_impath": "stanford_cars/cars_train/00442.jpg", "_domain": 0, "_classname": "2012 Volkswagen Golf Hatchback", "_label": 189}
+{"_impath": "stanford_cars/cars_train/03930.jpg", "_domain": 0, "_classname": "2012 Volkswagen Golf Hatchback", "_label": 189}
+{"_impath": "stanford_cars/cars_train/01408.jpg", "_domain": 0, "_classname": "2012 Volkswagen Golf Hatchback", "_label": 189}
+{"_impath": "stanford_cars/cars_train/02742.jpg", "_domain": 0, "_classname": "2012 Volkswagen Golf Hatchback", "_label": 189}
+{"_impath": "stanford_cars/cars_train/02003.jpg", "_domain": 0, "_classname": "2012 Ferrari FF Coupe", "_label": 100}
+{"_impath": "stanford_cars/cars_train/05236.jpg", "_domain": 0, "_classname": "2012 Ferrari FF Coupe", "_label": 100}
+{"_impath": "stanford_cars/cars_train/03907.jpg", "_domain": 0, "_classname": "2012 Ferrari FF Coupe", "_label": 100}
+{"_impath": "stanford_cars/cars_train/01777.jpg", "_domain": 0, "_classname": "2012 Ferrari FF Coupe", "_label": 100}
+{"_impath": "stanford_cars/cars_train/01120.jpg", "_domain": 0, "_classname": "2012 Toyota Camry Sedan", "_label": 186}
+{"_impath": "stanford_cars/cars_train/01550.jpg", "_domain": 0, "_classname": "2012 Toyota Camry Sedan", "_label": 186}
+{"_impath": "stanford_cars/cars_train/01590.jpg", "_domain": 0, "_classname": "2012 Toyota Camry Sedan", "_label": 186}
+{"_impath": "stanford_cars/cars_train/02423.jpg", "_domain": 0, "_classname": "2012 Toyota Camry Sedan", "_label": 186}
+{"_impath": "stanford_cars/cars_train/01331.jpg", "_domain": 0, "_classname": "2012 Aston Martin V8 Vantage Convertible", "_label": 7}
+{"_impath": "stanford_cars/cars_train/06024.jpg", "_domain": 0, "_classname": "2012 Aston Martin V8 Vantage Convertible", "_label": 7}
+{"_impath": "stanford_cars/cars_train/00081.jpg", "_domain": 0, "_classname": "2012 Aston Martin V8 Vantage Convertible", "_label": 7}
+{"_impath": "stanford_cars/cars_train/01283.jpg", "_domain": 0, "_classname": "2012 Aston Martin V8 Vantage Convertible", "_label": 7}
+{"_impath": "stanford_cars/cars_train/05717.jpg", "_domain": 0, "_classname": "1994 Audi 100 Sedan", "_label": 16}
+{"_impath": "stanford_cars/cars_train/00402.jpg", "_domain": 0, "_classname": "1994 Audi 100 Sedan", "_label": 16}
+{"_impath": "stanford_cars/cars_train/06568.jpg", "_domain": 0, "_classname": "1994 Audi 100 Sedan", "_label": 16}
+{"_impath": "stanford_cars/cars_train/08144.jpg", "_domain": 0, "_classname": "1994 Audi 100 Sedan", "_label": 16}
+{"_impath": "stanford_cars/cars_train/07148.jpg", "_domain": 0, "_classname": "2011 Ford Ranger SuperCab", "_label": 110}
+{"_impath": "stanford_cars/cars_train/04473.jpg", "_domain": 0, "_classname": "2011 Ford Ranger SuperCab", "_label": 110}
+{"_impath": "stanford_cars/cars_train/03118.jpg", "_domain": 0, "_classname": "2011 Ford Ranger SuperCab", "_label": 110}
+{"_impath": "stanford_cars/cars_train/07813.jpg", "_domain": 0, "_classname": "2011 Ford Ranger SuperCab", "_label": 110}
+{"_impath": "stanford_cars/cars_train/02466.jpg", "_domain": 0, "_classname": "2012 GMC Canyon Extended Cab", "_label": 121}
+{"_impath": "stanford_cars/cars_train/00541.jpg", "_domain": 0, "_classname": "2012 GMC Canyon Extended Cab", "_label": 121}
+{"_impath": "stanford_cars/cars_train/05704.jpg", "_domain": 0, "_classname": "2012 GMC Canyon Extended Cab", "_label": 121}
+{"_impath": "stanford_cars/cars_train/01174.jpg", "_domain": 0, "_classname": "2012 GMC Canyon Extended Cab", "_label": 121}
+{"_impath": "stanford_cars/cars_train/03511.jpg", "_domain": 0, "_classname": "2012 Acura TSX Sedan", "_label": 4}
+{"_impath": "stanford_cars/cars_train/03641.jpg", "_domain": 0, "_classname": "2012 Acura TSX Sedan", "_label": 4}
+{"_impath": "stanford_cars/cars_train/00151.jpg", "_domain": 0, "_classname": "2012 Acura TSX Sedan", "_label": 4}
+{"_impath": "stanford_cars/cars_train/06296.jpg", "_domain": 0, "_classname": "2012 Acura TSX Sedan", "_label": 4}
+{"_impath": "stanford_cars/cars_train/01520.jpg", "_domain": 0, "_classname": "2012 BMW 3 Series Sedan", "_label": 28}
+{"_impath": "stanford_cars/cars_train/06879.jpg", "_domain": 0, "_classname": "2012 BMW 3 Series Sedan", "_label": 28}
+{"_impath": "stanford_cars/cars_train/07146.jpg", "_domain": 0, "_classname": "2012 BMW 3 Series Sedan", "_label": 28}
+{"_impath": "stanford_cars/cars_train/03254.jpg", "_domain": 0, "_classname": "2012 BMW 3 Series Sedan", "_label": 28}
+{"_impath": "stanford_cars/cars_train/05929.jpg", "_domain": 0, "_classname": "2012 Honda Odyssey Minivan", "_label": 125}
+{"_impath": "stanford_cars/cars_train/01727.jpg", "_domain": 0, "_classname": "2012 Honda Odyssey Minivan", "_label": 125}
+{"_impath": "stanford_cars/cars_train/04520.jpg", "_domain": 0, "_classname": "2012 Honda Odyssey Minivan", "_label": 125}
+{"_impath": "stanford_cars/cars_train/04720.jpg", "_domain": 0, "_classname": "2012 Honda Odyssey Minivan", "_label": 125}
+{"_impath": "stanford_cars/cars_train/05227.jpg", "_domain": 0, "_classname": "2012 Dodge Durango SUV", "_label": 93}
+{"_impath": "stanford_cars/cars_train/01547.jpg", "_domain": 0, "_classname": "2012 Dodge Durango SUV", "_label": 93}
+{"_impath": "stanford_cars/cars_train/07465.jpg", "_domain": 0, "_classname": "2012 Dodge Durango SUV", "_label": 93}
+{"_impath": "stanford_cars/cars_train/07762.jpg", "_domain": 0, "_classname": "2012 Dodge Durango SUV", "_label": 93}
+{"_impath": "stanford_cars/cars_train/05777.jpg", "_domain": 0, "_classname": "2012 Toyota Corolla Sedan", "_label": 187}
+{"_impath": "stanford_cars/cars_train/02284.jpg", "_domain": 0, "_classname": "2012 Toyota Corolla Sedan", "_label": 187}
+{"_impath": "stanford_cars/cars_train/01696.jpg", "_domain": 0, "_classname": "2012 Toyota Corolla Sedan", "_label": 187}
+{"_impath": "stanford_cars/cars_train/06658.jpg", "_domain": 0, "_classname": "2012 Toyota Corolla Sedan", "_label": 187}
+{"_impath": "stanford_cars/cars_train/01812.jpg", "_domain": 0, "_classname": "2012 Chevrolet Camaro Convertible", "_label": 58}
+{"_impath": "stanford_cars/cars_train/03324.jpg", "_domain": 0, "_classname": "2012 Chevrolet Camaro Convertible", "_label": 58}
+{"_impath": "stanford_cars/cars_train/03006.jpg", "_domain": 0, "_classname": "2012 Chevrolet Camaro Convertible", "_label": 58}
+{"_impath": "stanford_cars/cars_train/01360.jpg", "_domain": 0, "_classname": "2012 Chevrolet Camaro Convertible", "_label": 58}
+{"_impath": "stanford_cars/cars_train/01156.jpg", "_domain": 0, "_classname": "2012 Ford Edge SUV", "_label": 109}
+{"_impath": "stanford_cars/cars_train/07638.jpg", "_domain": 0, "_classname": "2012 Ford Edge SUV", "_label": 109}
+{"_impath": "stanford_cars/cars_train/00077.jpg", "_domain": 0, "_classname": "2012 Ford Edge SUV", "_label": 109}
+{"_impath": "stanford_cars/cars_train/02677.jpg", "_domain": 0, "_classname": "2012 Ford Edge SUV", "_label": 109}
+{"_impath": "stanford_cars/cars_train/00938.jpg", "_domain": 0, "_classname": "2007 Bentley Continental GT Coupe", "_label": 42}
+{"_impath": "stanford_cars/cars_train/01008.jpg", "_domain": 0, "_classname": "2007 Bentley Continental GT Coupe", "_label": 42}
+{"_impath": "stanford_cars/cars_train/01409.jpg", "_domain": 0, "_classname": "2007 Bentley Continental GT Coupe", "_label": 42}
+{"_impath": "stanford_cars/cars_train/01399.jpg", "_domain": 0, "_classname": "2007 Bentley Continental GT Coupe", "_label": 42}
+{"_impath": "stanford_cars/cars_train/07213.jpg", "_domain": 0, "_classname": "1994 Audi 100 Wagon", "_label": 17}
+{"_impath": "stanford_cars/cars_train/02292.jpg", "_domain": 0, "_classname": "1994 Audi 100 Wagon", "_label": 17}
+{"_impath": "stanford_cars/cars_train/07384.jpg", "_domain": 0, "_classname": "1994 Audi 100 Wagon", "_label": 17}
+{"_impath": "stanford_cars/cars_train/00083.jpg", "_domain": 0, "_classname": "1994 Audi 100 Wagon", "_label": 17}
+{"_impath": "stanford_cars/cars_train/05933.jpg", "_domain": 0, "_classname": "2012 Ford E-Series Wagon Van", "_label": 115}
+{"_impath": "stanford_cars/cars_train/05656.jpg", "_domain": 0, "_classname": "2012 Ford E-Series Wagon Van", "_label": 115}
+{"_impath": "stanford_cars/cars_train/04122.jpg", "_domain": 0, "_classname": "2012 Ford E-Series Wagon Van", "_label": 115}
+{"_impath": "stanford_cars/cars_train/05987.jpg", "_domain": 0, "_classname": "2012 Ford E-Series Wagon Van", "_label": 115}
+{"_impath": "stanford_cars/cars_train/05994.jpg", "_domain": 0, "_classname": "2012 Jeep Patriot SUV", "_label": 144}
+{"_impath": "stanford_cars/cars_train/07873.jpg", "_domain": 0, "_classname": "2012 Jeep Patriot SUV", "_label": 144}
+{"_impath": "stanford_cars/cars_train/06621.jpg", "_domain": 0, "_classname": "2012 Jeep Patriot SUV", "_label": 144}
+{"_impath": "stanford_cars/cars_train/01173.jpg", "_domain": 0, "_classname": "2012 Jeep Patriot SUV", "_label": 144}
+{"_impath": "stanford_cars/cars_train/06677.jpg", "_domain": 0, "_classname": "2011 Audi S6 Sedan", "_label": 19}
+{"_impath": "stanford_cars/cars_train/02958.jpg", "_domain": 0, "_classname": "2011 Audi S6 Sedan", "_label": 19}
+{"_impath": "stanford_cars/cars_train/06914.jpg", "_domain": 0, "_classname": "2011 Audi S6 Sedan", "_label": 19}
+{"_impath": "stanford_cars/cars_train/04195.jpg", "_domain": 0, "_classname": "2011 Audi S6 Sedan", "_label": 19}
+{"_impath": "stanford_cars/cars_train/04319.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz S-Class Sedan", "_label": 164}
+{"_impath": "stanford_cars/cars_train/05031.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz S-Class Sedan", "_label": 164}
+{"_impath": "stanford_cars/cars_train/06082.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz S-Class Sedan", "_label": 164}
+{"_impath": "stanford_cars/cars_train/01463.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz S-Class Sedan", "_label": 164}
+{"_impath": "stanford_cars/cars_train/03787.jpg", "_domain": 0, "_classname": "2012 Hyundai Sonata Sedan", "_label": 137}
+{"_impath": "stanford_cars/cars_train/08019.jpg", "_domain": 0, "_classname": "2012 Hyundai Sonata Sedan", "_label": 137}
+{"_impath": "stanford_cars/cars_train/05200.jpg", "_domain": 0, "_classname": "2012 Hyundai Sonata Sedan", "_label": 137}
+{"_impath": "stanford_cars/cars_train/05636.jpg", "_domain": 0, "_classname": "2012 Hyundai Sonata Sedan", "_label": 137}
+{"_impath": "stanford_cars/cars_train/06622.jpg", "_domain": 0, "_classname": "2012 Rolls-Royce Phantom Drophead Coupe Convertible", "_label": 174}
+{"_impath": "stanford_cars/cars_train/02435.jpg", "_domain": 0, "_classname": "2012 Rolls-Royce Phantom Drophead Coupe Convertible", "_label": 174}
+{"_impath": "stanford_cars/cars_train/01763.jpg", "_domain": 0, "_classname": "2012 Rolls-Royce Phantom Drophead Coupe Convertible", "_label": 174}
+{"_impath": "stanford_cars/cars_train/07513.jpg", "_domain": 0, "_classname": "2012 Rolls-Royce Phantom Drophead Coupe Convertible", "_label": 174}
+{"_impath": "stanford_cars/cars_train/00336.jpg", "_domain": 0, "_classname": "2006 Ford GT Coupe", "_label": 111}
+{"_impath": "stanford_cars/cars_train/06074.jpg", "_domain": 0, "_classname": "2006 Ford GT Coupe", "_label": 111}
+{"_impath": "stanford_cars/cars_train/02573.jpg", "_domain": 0, "_classname": "2006 Ford GT Coupe", "_label": 111}
+{"_impath": "stanford_cars/cars_train/03053.jpg", "_domain": 0, "_classname": "2006 Ford GT Coupe", "_label": 111}
+{"_impath": "stanford_cars/cars_train/04550.jpg", "_domain": 0, "_classname": "2012 Cadillac CTS-V Sedan", "_label": 50}
+{"_impath": "stanford_cars/cars_train/07910.jpg", "_domain": 0, "_classname": "2012 Cadillac CTS-V Sedan", "_label": 50}
+{"_impath": "stanford_cars/cars_train/07956.jpg", "_domain": 0, "_classname": "2012 Cadillac CTS-V Sedan", "_label": 50}
+{"_impath": "stanford_cars/cars_train/05081.jpg", "_domain": 0, "_classname": "2012 Cadillac CTS-V Sedan", "_label": 50}
+{"_impath": "stanford_cars/cars_train/07480.jpg", "_domain": 0, "_classname": "2012 BMW X3 SUV", "_label": 36}
+{"_impath": "stanford_cars/cars_train/08068.jpg", "_domain": 0, "_classname": "2012 BMW X3 SUV", "_label": 36}
+{"_impath": "stanford_cars/cars_train/00164.jpg", "_domain": 0, "_classname": "2012 BMW X3 SUV", "_label": 36}
+{"_impath": "stanford_cars/cars_train/00985.jpg", "_domain": 0, "_classname": "2012 BMW X3 SUV", "_label": 36}
+{"_impath": "stanford_cars/cars_train/06108.jpg", "_domain": 0, "_classname": "2007 Chevrolet Express Van", "_label": 70}
+{"_impath": "stanford_cars/cars_train/08037.jpg", "_domain": 0, "_classname": "2007 Chevrolet Express Van", "_label": 70}
+{"_impath": "stanford_cars/cars_train/01712.jpg", "_domain": 0, "_classname": "2007 Chevrolet Express Van", "_label": 70}
+{"_impath": "stanford_cars/cars_train/02672.jpg", "_domain": 0, "_classname": "2007 Chevrolet Express Van", "_label": 70}
+{"_impath": "stanford_cars/cars_train/05437.jpg", "_domain": 0, "_classname": "2007 Chevrolet Impala Sedan", "_label": 60}
+{"_impath": "stanford_cars/cars_train/06807.jpg", "_domain": 0, "_classname": "2007 Chevrolet Impala Sedan", "_label": 60}
+{"_impath": "stanford_cars/cars_train/00661.jpg", "_domain": 0, "_classname": "2007 Chevrolet Impala Sedan", "_label": 60}
+{"_impath": "stanford_cars/cars_train/00745.jpg", "_domain": 0, "_classname": "2007 Chevrolet Impala Sedan", "_label": 60}
+{"_impath": "stanford_cars/cars_train/07852.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 1500 Extended Cab", "_label": 73}
+{"_impath": "stanford_cars/cars_train/04234.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 1500 Extended Cab", "_label": 73}
+{"_impath": "stanford_cars/cars_train/03862.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 1500 Extended Cab", "_label": 73}
+{"_impath": "stanford_cars/cars_train/01327.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 1500 Extended Cab", "_label": 73}
+{"_impath": "stanford_cars/cars_train/00515.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz C-Class Sedan", "_label": 161}
+{"_impath": "stanford_cars/cars_train/04423.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz C-Class Sedan", "_label": 161}
+{"_impath": "stanford_cars/cars_train/03771.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz C-Class Sedan", "_label": 161}
+{"_impath": "stanford_cars/cars_train/01653.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz C-Class Sedan", "_label": 161}
+{"_impath": "stanford_cars/cars_train/00629.jpg", "_domain": 0, "_classname": "2012 Hyundai Santa Fe SUV", "_label": 130}
+{"_impath": "stanford_cars/cars_train/07662.jpg", "_domain": 0, "_classname": "2012 Hyundai Santa Fe SUV", "_label": 130}
+{"_impath": "stanford_cars/cars_train/07942.jpg", "_domain": 0, "_classname": "2012 Hyundai Santa Fe SUV", "_label": 130}
+{"_impath": "stanford_cars/cars_train/00310.jpg", "_domain": 0, "_classname": "2012 Hyundai Santa Fe SUV", "_label": 130}
+{"_impath": "stanford_cars/cars_train/00224.jpg", "_domain": 0, "_classname": "2009 Dodge Sprinter Cargo Van", "_label": 87}
+{"_impath": "stanford_cars/cars_train/01040.jpg", "_domain": 0, "_classname": "2009 Dodge Sprinter Cargo Van", "_label": 87}
+{"_impath": "stanford_cars/cars_train/06134.jpg", "_domain": 0, "_classname": "2009 Dodge Sprinter Cargo Van", "_label": 87}
+{"_impath": "stanford_cars/cars_train/00737.jpg", "_domain": 0, "_classname": "2009 Dodge Sprinter Cargo Van", "_label": 87}
+{"_impath": "stanford_cars/cars_train/00807.jpg", "_domain": 0, "_classname": "2012 GMC Acadia SUV", "_label": 120}
+{"_impath": "stanford_cars/cars_train/08059.jpg", "_domain": 0, "_classname": "2012 GMC Acadia SUV", "_label": 120}
+{"_impath": "stanford_cars/cars_train/04024.jpg", "_domain": 0, "_classname": "2012 GMC Acadia SUV", "_label": 120}
+{"_impath": "stanford_cars/cars_train/03134.jpg", "_domain": 0, "_classname": "2012 GMC Acadia SUV", "_label": 120}
+{"_impath": "stanford_cars/cars_train/03026.jpg", "_domain": 0, "_classname": "2012 Hyundai Genesis Sedan", "_label": 136}
+{"_impath": "stanford_cars/cars_train/06764.jpg", "_domain": 0, "_classname": "2012 Hyundai Genesis Sedan", "_label": 136}
+{"_impath": "stanford_cars/cars_train/03403.jpg", "_domain": 0, "_classname": "2012 Hyundai Genesis Sedan", "_label": 136}
+{"_impath": "stanford_cars/cars_train/01007.jpg", "_domain": 0, "_classname": "2012 Hyundai Genesis Sedan", "_label": 136}
+{"_impath": "stanford_cars/cars_train/04079.jpg", "_domain": 0, "_classname": "2012 Dodge Caliber Wagon", "_label": 82}
+{"_impath": "stanford_cars/cars_train/03012.jpg", "_domain": 0, "_classname": "2012 Dodge Caliber Wagon", "_label": 82}
+{"_impath": "stanford_cars/cars_train/03432.jpg", "_domain": 0, "_classname": "2012 Dodge Caliber Wagon", "_label": 82}
+{"_impath": "stanford_cars/cars_train/02991.jpg", "_domain": 0, "_classname": "2012 Dodge Caliber Wagon", "_label": 82}
+{"_impath": "stanford_cars/cars_train/06331.jpg", "_domain": 0, "_classname": "2012 Jeep Liberty SUV", "_label": 146}
+{"_impath": "stanford_cars/cars_train/06909.jpg", "_domain": 0, "_classname": "2012 Jeep Liberty SUV", "_label": 146}
+{"_impath": "stanford_cars/cars_train/04115.jpg", "_domain": 0, "_classname": "2012 Jeep Liberty SUV", "_label": 146}
+{"_impath": "stanford_cars/cars_train/08039.jpg", "_domain": 0, "_classname": "2012 Jeep Liberty SUV", "_label": 146}
+{"_impath": "stanford_cars/cars_train/02139.jpg", "_domain": 0, "_classname": "1993 Mercedes-Benz 300-Class Convertible", "_label": 160}
+{"_impath": "stanford_cars/cars_train/01218.jpg", "_domain": 0, "_classname": "1993 Mercedes-Benz 300-Class Convertible", "_label": 160}
+{"_impath": "stanford_cars/cars_train/04941.jpg", "_domain": 0, "_classname": "1993 Mercedes-Benz 300-Class Convertible", "_label": 160}
+{"_impath": "stanford_cars/cars_train/05581.jpg", "_domain": 0, "_classname": "1993 Mercedes-Benz 300-Class Convertible", "_label": 160}
+{"_impath": "stanford_cars/cars_train/05612.jpg", "_domain": 0, "_classname": "2009 Ford Expedition EL SUV", "_label": 108}
+{"_impath": "stanford_cars/cars_train/05602.jpg", "_domain": 0, "_classname": "2009 Ford Expedition EL SUV", "_label": 108}
+{"_impath": "stanford_cars/cars_train/06189.jpg", "_domain": 0, "_classname": "2009 Ford Expedition EL SUV", "_label": 108}
+{"_impath": "stanford_cars/cars_train/00644.jpg", "_domain": 0, "_classname": "2009 Ford Expedition EL SUV", "_label": 108}
+{"_impath": "stanford_cars/cars_train/02772.jpg", "_domain": 0, "_classname": "2012 BMW 1 Series Coupe", "_label": 27}
+{"_impath": "stanford_cars/cars_train/00122.jpg", "_domain": 0, "_classname": "2012 BMW 1 Series Coupe", "_label": 27}
+{"_impath": "stanford_cars/cars_train/08021.jpg", "_domain": 0, "_classname": "2012 BMW 1 Series Coupe", "_label": 27}
+{"_impath": "stanford_cars/cars_train/02504.jpg", "_domain": 0, "_classname": "2012 BMW 1 Series Coupe", "_label": 27}
+{"_impath": "stanford_cars/cars_train/04540.jpg", "_domain": 0, "_classname": "2012 Jaguar XK XKR", "_label": 143}
+{"_impath": "stanford_cars/cars_train/04378.jpg", "_domain": 0, "_classname": "2012 Jaguar XK XKR", "_label": 143}
+{"_impath": "stanford_cars/cars_train/03805.jpg", "_domain": 0, "_classname": "2012 Jaguar XK XKR", "_label": 143}
+{"_impath": "stanford_cars/cars_train/02497.jpg", "_domain": 0, "_classname": "2012 Jaguar XK XKR", "_label": 143}
+{"_impath": "stanford_cars/cars_train/00229.jpg", "_domain": 0, "_classname": "2012 Hyundai Accent Sedan", "_label": 135}
+{"_impath": "stanford_cars/cars_train/04096.jpg", "_domain": 0, "_classname": "2012 Hyundai Accent Sedan", "_label": 135}
+{"_impath": "stanford_cars/cars_train/03086.jpg", "_domain": 0, "_classname": "2012 Hyundai Accent Sedan", "_label": 135}
+{"_impath": "stanford_cars/cars_train/01623.jpg", "_domain": 0, "_classname": "2012 Hyundai Accent Sedan", "_label": 135}
+{"_impath": "stanford_cars/cars_train/00191.jpg", "_domain": 0, "_classname": "2008 Isuzu Ascender SUV", "_label": 142}
+{"_impath": "stanford_cars/cars_train/02320.jpg", "_domain": 0, "_classname": "2008 Isuzu Ascender SUV", "_label": 142}
+{"_impath": "stanford_cars/cars_train/06655.jpg", "_domain": 0, "_classname": "2008 Isuzu Ascender SUV", "_label": 142}
+{"_impath": "stanford_cars/cars_train/02678.jpg", "_domain": 0, "_classname": "2008 Isuzu Ascender SUV", "_label": 142}
+{"_impath": "stanford_cars/cars_train/00844.jpg", "_domain": 0, "_classname": "1998 Nissan 240SX Coupe", "_label": 170}
+{"_impath": "stanford_cars/cars_train/07970.jpg", "_domain": 0, "_classname": "1998 Nissan 240SX Coupe", "_label": 170}
+{"_impath": "stanford_cars/cars_train/04253.jpg", "_domain": 0, "_classname": "1998 Nissan 240SX Coupe", "_label": 170}
+{"_impath": "stanford_cars/cars_train/03301.jpg", "_domain": 0, "_classname": "1998 Nissan 240SX Coupe", "_label": 170}
+{"_impath": "stanford_cars/cars_train/01302.jpg", "_domain": 0, "_classname": "2012 Scion xD Hatchback", "_label": 177}
+{"_impath": "stanford_cars/cars_train/02937.jpg", "_domain": 0, "_classname": "2012 Scion xD Hatchback", "_label": 177}
+{"_impath": "stanford_cars/cars_train/05742.jpg", "_domain": 0, "_classname": "2012 Scion xD Hatchback", "_label": 177}
+{"_impath": "stanford_cars/cars_train/03186.jpg", "_domain": 0, "_classname": "2012 Scion xD Hatchback", "_label": 177}
+{"_impath": "stanford_cars/cars_train/00488.jpg", "_domain": 0, "_classname": "2012 Chevrolet Corvette ZR1", "_label": 55}
+{"_impath": "stanford_cars/cars_train/01095.jpg", "_domain": 0, "_classname": "2012 Chevrolet Corvette ZR1", "_label": 55}
+{"_impath": "stanford_cars/cars_train/02836.jpg", "_domain": 0, "_classname": "2012 Chevrolet Corvette ZR1", "_label": 55}
+{"_impath": "stanford_cars/cars_train/00138.jpg", "_domain": 0, "_classname": "2012 Chevrolet Corvette ZR1", "_label": 55}
+{"_impath": "stanford_cars/cars_train/06128.jpg", "_domain": 0, "_classname": "2009 Bentley Arnage Sedan", "_label": 39}
+{"_impath": "stanford_cars/cars_train/02534.jpg", "_domain": 0, "_classname": "2009 Bentley Arnage Sedan", "_label": 39}
+{"_impath": "stanford_cars/cars_train/05865.jpg", "_domain": 0, "_classname": "2009 Bentley Arnage Sedan", "_label": 39}
+{"_impath": "stanford_cars/cars_train/01522.jpg", "_domain": 0, "_classname": "2009 Bentley Arnage Sedan", "_label": 39}
+{"_impath": "stanford_cars/cars_train/04113.jpg", "_domain": 0, "_classname": "2010 Chevrolet HHR SS", "_label": 59}
+{"_impath": "stanford_cars/cars_train/06917.jpg", "_domain": 0, "_classname": "2010 Chevrolet HHR SS", "_label": 59}
+{"_impath": "stanford_cars/cars_train/00997.jpg", "_domain": 0, "_classname": "2010 Chevrolet HHR SS", "_label": 59}
+{"_impath": "stanford_cars/cars_train/03032.jpg", "_domain": 0, "_classname": "2010 Chevrolet HHR SS", "_label": 59}
+{"_impath": "stanford_cars/cars_train/05796.jpg", "_domain": 0, "_classname": "2012 Land Rover LR2 SUV", "_label": 154}
+{"_impath": "stanford_cars/cars_train/00179.jpg", "_domain": 0, "_classname": "2012 Land Rover LR2 SUV", "_label": 154}
+{"_impath": "stanford_cars/cars_train/04108.jpg", "_domain": 0, "_classname": "2012 Land Rover LR2 SUV", "_label": 154}
+{"_impath": "stanford_cars/cars_train/01254.jpg", "_domain": 0, "_classname": "2012 Land Rover LR2 SUV", "_label": 154}
+{"_impath": "stanford_cars/cars_train/04807.jpg", "_domain": 0, "_classname": "2012 Hyundai Azera Sedan", "_label": 139}
+{"_impath": "stanford_cars/cars_train/07486.jpg", "_domain": 0, "_classname": "2012 Hyundai Azera Sedan", "_label": 139}
+{"_impath": "stanford_cars/cars_train/00145.jpg", "_domain": 0, "_classname": "2012 Hyundai Azera Sedan", "_label": 139}
+{"_impath": "stanford_cars/cars_train/01692.jpg", "_domain": 0, "_classname": "2012 Hyundai Azera Sedan", "_label": 139}
+{"_impath": "stanford_cars/cars_train/06157.jpg", "_domain": 0, "_classname": "2009 Chrysler Aspen SUV", "_label": 75}
+{"_impath": "stanford_cars/cars_train/02608.jpg", "_domain": 0, "_classname": "2009 Chrysler Aspen SUV", "_label": 75}
+{"_impath": "stanford_cars/cars_train/07998.jpg", "_domain": 0, "_classname": "2009 Chrysler Aspen SUV", "_label": 75}
+{"_impath": "stanford_cars/cars_train/03198.jpg", "_domain": 0, "_classname": "2009 Chrysler Aspen SUV", "_label": 75}
+{"_impath": "stanford_cars/cars_train/07236.jpg", "_domain": 0, "_classname": "2012 Buick Regal GS", "_label": 46}
+{"_impath": "stanford_cars/cars_train/02988.jpg", "_domain": 0, "_classname": "2012 Buick Regal GS", "_label": 46}
+{"_impath": "stanford_cars/cars_train/01433.jpg", "_domain": 0, "_classname": "2012 Buick Regal GS", "_label": 46}
+{"_impath": "stanford_cars/cars_train/00279.jpg", "_domain": 0, "_classname": "2012 Buick Regal GS", "_label": 46}
+{"_impath": "stanford_cars/cars_train/05105.jpg", "_domain": 0, "_classname": "2012 BMW 3 Series Wagon", "_label": 29}
+{"_impath": "stanford_cars/cars_train/02874.jpg", "_domain": 0, "_classname": "2012 BMW 3 Series Wagon", "_label": 29}
+{"_impath": "stanford_cars/cars_train/04547.jpg", "_domain": 0, "_classname": "2012 BMW 3 Series Wagon", "_label": 29}
+{"_impath": "stanford_cars/cars_train/03010.jpg", "_domain": 0, "_classname": "2012 BMW 3 Series Wagon", "_label": 29}
+{"_impath": "stanford_cars/cars_train/06315.jpg", "_domain": 0, "_classname": "2012 Jeep Compass SUV", "_label": 148}
+{"_impath": "stanford_cars/cars_train/08001.jpg", "_domain": 0, "_classname": "2012 Jeep Compass SUV", "_label": 148}
+{"_impath": "stanford_cars/cars_train/01718.jpg", "_domain": 0, "_classname": "2012 Jeep Compass SUV", "_label": 148}
+{"_impath": "stanford_cars/cars_train/03362.jpg", "_domain": 0, "_classname": "2012 Jeep Compass SUV", "_label": 148}
+{"_impath": "stanford_cars/cars_train/01385.jpg", "_domain": 0, "_classname": "2012 Ram C/V Cargo Van Minivan", "_label": 173}
+{"_impath": "stanford_cars/cars_train/07558.jpg", "_domain": 0, "_classname": "2012 Ram C/V Cargo Van Minivan", "_label": 173}
+{"_impath": "stanford_cars/cars_train/00271.jpg", "_domain": 0, "_classname": "2012 Ram C/V Cargo Van Minivan", "_label": 173}
+{"_impath": "stanford_cars/cars_train/06988.jpg", "_domain": 0, "_classname": "2012 Ram C/V Cargo Van Minivan", "_label": 173}
+{"_impath": "stanford_cars/cars_train/01607.jpg", "_domain": 0, "_classname": "2009 Spyker C8 Convertible", "_label": 178}
+{"_impath": "stanford_cars/cars_train/07743.jpg", "_domain": 0, "_classname": "2009 Spyker C8 Convertible", "_label": 178}
+{"_impath": "stanford_cars/cars_train/02727.jpg", "_domain": 0, "_classname": "2009 Spyker C8 Convertible", "_label": 178}
+{"_impath": "stanford_cars/cars_train/07650.jpg", "_domain": 0, "_classname": "2009 Spyker C8 Convertible", "_label": 178}
+{"_impath": "stanford_cars/cars_train/00750.jpg", "_domain": 0, "_classname": "2007 Audi S4 Sedan", "_label": 23}
+{"_impath": "stanford_cars/cars_train/07938.jpg", "_domain": 0, "_classname": "2007 Audi S4 Sedan", "_label": 23}
+{"_impath": "stanford_cars/cars_train/02165.jpg", "_domain": 0, "_classname": "2007 Audi S4 Sedan", "_label": 23}
+{"_impath": "stanford_cars/cars_train/00446.jpg", "_domain": 0, "_classname": "2007 Audi S4 Sedan", "_label": 23}
+{"_impath": "stanford_cars/cars_train/03416.jpg", "_domain": 0, "_classname": "2012 Rolls-Royce Ghost Sedan", "_label": 175}
+{"_impath": "stanford_cars/cars_train/07461.jpg", "_domain": 0, "_classname": "2012 Rolls-Royce Ghost Sedan", "_label": 175}
+{"_impath": "stanford_cars/cars_train/03201.jpg", "_domain": 0, "_classname": "2012 Rolls-Royce Ghost Sedan", "_label": 175}
+{"_impath": "stanford_cars/cars_train/03250.jpg", "_domain": 0, "_classname": "2012 Rolls-Royce Ghost Sedan", "_label": 175}
+{"_impath": "stanford_cars/cars_train/06052.jpg", "_domain": 0, "_classname": "2000 AM General Hummer SUV", "_label": 0}
+{"_impath": "stanford_cars/cars_train/06159.jpg", "_domain": 0, "_classname": "2000 AM General Hummer SUV", "_label": 0}
+{"_impath": "stanford_cars/cars_train/00462.jpg", "_domain": 0, "_classname": "2000 AM General Hummer SUV", "_label": 0}
+{"_impath": "stanford_cars/cars_train/06174.jpg", "_domain": 0, "_classname": "2000 AM General Hummer SUV", "_label": 0}
+{"_impath": "stanford_cars/cars_train/07995.jpg", "_domain": 0, "_classname": "2007 Ford Freestar Minivan", "_label": 107}
+{"_impath": "stanford_cars/cars_train/04894.jpg", "_domain": 0, "_classname": "2007 Ford Freestar Minivan", "_label": 107}
+{"_impath": "stanford_cars/cars_train/01773.jpg", "_domain": 0, "_classname": "2007 Ford Freestar Minivan", "_label": 107}
+{"_impath": "stanford_cars/cars_train/02615.jpg", "_domain": 0, "_classname": "2007 Ford Freestar Minivan", "_label": 107}
+{"_impath": "stanford_cars/cars_train/00856.jpg", "_domain": 0, "_classname": "2011 Bentley Mulsanne Sedan", "_label": 40}
+{"_impath": "stanford_cars/cars_train/00746.jpg", "_domain": 0, "_classname": "2011 Bentley Mulsanne Sedan", "_label": 40}
+{"_impath": "stanford_cars/cars_train/05548.jpg", "_domain": 0, "_classname": "2011 Bentley Mulsanne Sedan", "_label": 40}
+{"_impath": "stanford_cars/cars_train/06181.jpg", "_domain": 0, "_classname": "2011 Bentley Mulsanne Sedan", "_label": 40}
+{"_impath": "stanford_cars/cars_train/04883.jpg", "_domain": 0, "_classname": "2011 Audi TT Hatchback", "_label": 18}
+{"_impath": "stanford_cars/cars_train/00723.jpg", "_domain": 0, "_classname": "2011 Audi TT Hatchback", "_label": 18}
+{"_impath": "stanford_cars/cars_train/06432.jpg", "_domain": 0, "_classname": "2011 Audi TT Hatchback", "_label": 18}
+{"_impath": "stanford_cars/cars_train/00171.jpg", "_domain": 0, "_classname": "2011 Audi TT Hatchback", "_label": 18}
+{"_impath": "stanford_cars/cars_train/00889.jpg", "_domain": 0, "_classname": "2009 Mercedes-Benz SL-Class Coupe", "_label": 162}
+{"_impath": "stanford_cars/cars_train/06257.jpg", "_domain": 0, "_classname": "2009 Mercedes-Benz SL-Class Coupe", "_label": 162}
+{"_impath": "stanford_cars/cars_train/02839.jpg", "_domain": 0, "_classname": "2009 Mercedes-Benz SL-Class Coupe", "_label": 162}
+{"_impath": "stanford_cars/cars_train/03973.jpg", "_domain": 0, "_classname": "2009 Mercedes-Benz SL-Class Coupe", "_label": 162}
+{"_impath": "stanford_cars/cars_train/00626.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 1500 Hybrid Crew Cab", "_label": 53}
+{"_impath": "stanford_cars/cars_train/01032.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 1500 Hybrid Crew Cab", "_label": 53}
+{"_impath": "stanford_cars/cars_train/07194.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 1500 Hybrid Crew Cab", "_label": 53}
+{"_impath": "stanford_cars/cars_train/06739.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 1500 Hybrid Crew Cab", "_label": 53}
+{"_impath": "stanford_cars/cars_train/07892.jpg", "_domain": 0, "_classname": "2012 Buick Enclave SUV", "_label": 49}
+{"_impath": "stanford_cars/cars_train/00591.jpg", "_domain": 0, "_classname": "2012 Buick Enclave SUV", "_label": 49}
+{"_impath": "stanford_cars/cars_train/07112.jpg", "_domain": 0, "_classname": "2012 Buick Enclave SUV", "_label": 49}
+{"_impath": "stanford_cars/cars_train/08042.jpg", "_domain": 0, "_classname": "2012 Buick Enclave SUV", "_label": 49}
+{"_impath": "stanford_cars/cars_train/02486.jpg", "_domain": 0, "_classname": "2009 Chevrolet TrailBlazer SS", "_label": 67}
+{"_impath": "stanford_cars/cars_train/02060.jpg", "_domain": 0, "_classname": "2009 Chevrolet TrailBlazer SS", "_label": 67}
+{"_impath": "stanford_cars/cars_train/05439.jpg", "_domain": 0, "_classname": "2009 Chevrolet TrailBlazer SS", "_label": 67}
+{"_impath": "stanford_cars/cars_train/07784.jpg", "_domain": 0, "_classname": "2009 Chevrolet TrailBlazer SS", "_label": 67}
+{"_impath": "stanford_cars/cars_train/03097.jpg", "_domain": 0, "_classname": "2009 HUMMER H2 SUT Crew Cab", "_label": 124}
+{"_impath": "stanford_cars/cars_train/03247.jpg", "_domain": 0, "_classname": "2009 HUMMER H2 SUT Crew Cab", "_label": 124}
+{"_impath": "stanford_cars/cars_train/02482.jpg", "_domain": 0, "_classname": "2009 HUMMER H2 SUT Crew Cab", "_label": 124}
+{"_impath": "stanford_cars/cars_train/05106.jpg", "_domain": 0, "_classname": "2009 HUMMER H2 SUT Crew Cab", "_label": 124}
+{"_impath": "stanford_cars/cars_train/05097.jpg", "_domain": 0, "_classname": "2012 McLaren MP4-12C Coupe", "_label": 159}
+{"_impath": "stanford_cars/cars_train/04287.jpg", "_domain": 0, "_classname": "2012 McLaren MP4-12C Coupe", "_label": 159}
+{"_impath": "stanford_cars/cars_train/00809.jpg", "_domain": 0, "_classname": "2012 McLaren MP4-12C Coupe", "_label": 159}
+{"_impath": "stanford_cars/cars_train/03258.jpg", "_domain": 0, "_classname": "2012 McLaren MP4-12C Coupe", "_label": 159}
+{"_impath": "stanford_cars/cars_train/07899.jpg", "_domain": 0, "_classname": "2011 Dodge Challenger SRT8", "_label": 92}
+{"_impath": "stanford_cars/cars_train/02719.jpg", "_domain": 0, "_classname": "2011 Dodge Challenger SRT8", "_label": 92}
+{"_impath": "stanford_cars/cars_train/07983.jpg", "_domain": 0, "_classname": "2011 Dodge Challenger SRT8", "_label": 92}
+{"_impath": "stanford_cars/cars_train/00188.jpg", "_domain": 0, "_classname": "2011 Dodge Challenger SRT8", "_label": 92}
+{"_impath": "stanford_cars/cars_train/05109.jpg", "_domain": 0, "_classname": "2012 Suzuki SX4 Hatchback", "_label": 182}
+{"_impath": "stanford_cars/cars_train/03919.jpg", "_domain": 0, "_classname": "2012 Suzuki SX4 Hatchback", "_label": 182}
+{"_impath": "stanford_cars/cars_train/00189.jpg", "_domain": 0, "_classname": "2012 Suzuki SX4 Hatchback", "_label": 182}
+{"_impath": "stanford_cars/cars_train/05215.jpg", "_domain": 0, "_classname": "2012 Suzuki SX4 Hatchback", "_label": 182}
+{"_impath": "stanford_cars/cars_train/02541.jpg", "_domain": 0, "_classname": "2009 Bugatti Veyron 16.4 Convertible", "_label": 44}
+{"_impath": "stanford_cars/cars_train/01077.jpg", "_domain": 0, "_classname": "2009 Bugatti Veyron 16.4 Convertible", "_label": 44}
+{"_impath": "stanford_cars/cars_train/07296.jpg", "_domain": 0, "_classname": "2009 Bugatti Veyron 16.4 Convertible", "_label": 44}
+{"_impath": "stanford_cars/cars_train/06392.jpg", "_domain": 0, "_classname": "2009 Bugatti Veyron 16.4 Convertible", "_label": 44}
+{"_impath": "stanford_cars/cars_train/08103.jpg", "_domain": 0, "_classname": "2012 Toyota 4Runner SUV", "_label": 188}
+{"_impath": "stanford_cars/cars_train/03989.jpg", "_domain": 0, "_classname": "2012 Toyota 4Runner SUV", "_label": 188}
+{"_impath": "stanford_cars/cars_train/04065.jpg", "_domain": 0, "_classname": "2012 Toyota 4Runner SUV", "_label": 188}
+{"_impath": "stanford_cars/cars_train/07648.jpg", "_domain": 0, "_classname": "2012 Toyota 4Runner SUV", "_label": 188}
+{"_impath": "stanford_cars/cars_train/01207.jpg", "_domain": 0, "_classname": "2007 Buick Rainier SUV", "_label": 47}
+{"_impath": "stanford_cars/cars_train/04458.jpg", "_domain": 0, "_classname": "2007 Buick Rainier SUV", "_label": 47}
+{"_impath": "stanford_cars/cars_train/03164.jpg", "_domain": 0, "_classname": "2007 Buick Rainier SUV", "_label": 47}
+{"_impath": "stanford_cars/cars_train/03923.jpg", "_domain": 0, "_classname": "2007 Buick Rainier SUV", "_label": 47}
+{"_impath": "stanford_cars/cars_train/02016.jpg", "_domain": 0, "_classname": "2010 Chrysler Sebring Convertible", "_label": 76}
+{"_impath": "stanford_cars/cars_train/00604.jpg", "_domain": 0, "_classname": "2010 Chrysler Sebring Convertible", "_label": 76}
+{"_impath": "stanford_cars/cars_train/02933.jpg", "_domain": 0, "_classname": "2010 Chrysler Sebring Convertible", "_label": 76}
+{"_impath": "stanford_cars/cars_train/02785.jpg", "_domain": 0, "_classname": "2010 Chrysler Sebring Convertible", "_label": 76}
+{"_impath": "stanford_cars/cars_train/06244.jpg", "_domain": 0, "_classname": "2001 Acura Integra Type R", "_label": 5}
+{"_impath": "stanford_cars/cars_train/03715.jpg", "_domain": 0, "_classname": "2001 Acura Integra Type R", "_label": 5}
+{"_impath": "stanford_cars/cars_train/04833.jpg", "_domain": 0, "_classname": "2001 Acura Integra Type R", "_label": 5}
+{"_impath": "stanford_cars/cars_train/08018.jpg", "_domain": 0, "_classname": "2001 Acura Integra Type R", "_label": 5}
+{"_impath": "stanford_cars/cars_train/02656.jpg", "_domain": 0, "_classname": "1994 Audi V8 Sedan", "_label": 15}
+{"_impath": "stanford_cars/cars_train/00653.jpg", "_domain": 0, "_classname": "1994 Audi V8 Sedan", "_label": 15}
+{"_impath": "stanford_cars/cars_train/01251.jpg", "_domain": 0, "_classname": "1994 Audi V8 Sedan", "_label": 15}
+{"_impath": "stanford_cars/cars_train/05924.jpg", "_domain": 0, "_classname": "1994 Audi V8 Sedan", "_label": 15}
+{"_impath": "stanford_cars/cars_train/06515.jpg", "_domain": 0, "_classname": "2008 Audi RS 4 Convertible", "_label": 11}
+{"_impath": "stanford_cars/cars_train/03167.jpg", "_domain": 0, "_classname": "2008 Audi RS 4 Convertible", "_label": 11}
+{"_impath": "stanford_cars/cars_train/00578.jpg", "_domain": 0, "_classname": "2008 Audi RS 4 Convertible", "_label": 11}
+{"_impath": "stanford_cars/cars_train/01313.jpg", "_domain": 0, "_classname": "2008 Audi RS 4 Convertible", "_label": 11}
+{"_impath": "stanford_cars/cars_train/03915.jpg", "_domain": 0, "_classname": "2012 Honda Accord Coupe", "_label": 127}
+{"_impath": "stanford_cars/cars_train/03783.jpg", "_domain": 0, "_classname": "2012 Honda Accord Coupe", "_label": 127}
+{"_impath": "stanford_cars/cars_train/03501.jpg", "_domain": 0, "_classname": "2012 Honda Accord Coupe", "_label": 127}
+{"_impath": "stanford_cars/cars_train/00204.jpg", "_domain": 0, "_classname": "2012 Honda Accord Coupe", "_label": 127}
+{"_impath": "stanford_cars/cars_train/02566.jpg", "_domain": 0, "_classname": "2012 Audi S4 Sedan", "_label": 22}
+{"_impath": "stanford_cars/cars_train/03472.jpg", "_domain": 0, "_classname": "2012 Audi S4 Sedan", "_label": 22}
+{"_impath": "stanford_cars/cars_train/07295.jpg", "_domain": 0, "_classname": "2012 Audi S4 Sedan", "_label": 22}
+{"_impath": "stanford_cars/cars_train/06236.jpg", "_domain": 0, "_classname": "2012 Audi S4 Sedan", "_label": 22}
+{"_impath": "stanford_cars/cars_train/00660.jpg", "_domain": 0, "_classname": "2012 Aston Martin Virage Coupe", "_label": 10}
+{"_impath": "stanford_cars/cars_train/07048.jpg", "_domain": 0, "_classname": "2012 Aston Martin Virage Coupe", "_label": 10}
+{"_impath": "stanford_cars/cars_train/03458.jpg", "_domain": 0, "_classname": "2012 Aston Martin Virage Coupe", "_label": 10}
+{"_impath": "stanford_cars/cars_train/03502.jpg", "_domain": 0, "_classname": "2012 Aston Martin Virage Coupe", "_label": 10}
+{"_impath": "stanford_cars/cars_train/00995.jpg", "_domain": 0, "_classname": "2012 Chevrolet Sonic Sedan", "_label": 62}
+{"_impath": "stanford_cars/cars_train/03811.jpg", "_domain": 0, "_classname": "2012 Chevrolet Sonic Sedan", "_label": 62}
+{"_impath": "stanford_cars/cars_train/03351.jpg", "_domain": 0, "_classname": "2012 Chevrolet Sonic Sedan", "_label": 62}
+{"_impath": "stanford_cars/cars_train/03666.jpg", "_domain": 0, "_classname": "2012 Chevrolet Sonic Sedan", "_label": 62}
+{"_impath": "stanford_cars/cars_train/00540.jpg", "_domain": 0, "_classname": "2007 Chevrolet Monte Carlo Coupe", "_label": 71}
+{"_impath": "stanford_cars/cars_train/01605.jpg", "_domain": 0, "_classname": "2007 Chevrolet Monte Carlo Coupe", "_label": 71}
+{"_impath": "stanford_cars/cars_train/06612.jpg", "_domain": 0, "_classname": "2007 Chevrolet Monte Carlo Coupe", "_label": 71}
+{"_impath": "stanford_cars/cars_train/04285.jpg", "_domain": 0, "_classname": "2007 Chevrolet Monte Carlo Coupe", "_label": 71}
+{"_impath": "stanford_cars/cars_train/03995.jpg", "_domain": 0, "_classname": "2007 Volvo XC90 SUV", "_label": 194}
+{"_impath": "stanford_cars/cars_train/03307.jpg", "_domain": 0, "_classname": "2007 Volvo XC90 SUV", "_label": 194}
+{"_impath": "stanford_cars/cars_train/05171.jpg", "_domain": 0, "_classname": "2007 Volvo XC90 SUV", "_label": 194}
+{"_impath": "stanford_cars/cars_train/06068.jpg", "_domain": 0, "_classname": "2007 Volvo XC90 SUV", "_label": 194}
+{"_impath": "stanford_cars/cars_train/04230.jpg", "_domain": 0, "_classname": "2007 Ford Mustang Convertible", "_label": 106}
+{"_impath": "stanford_cars/cars_train/01979.jpg", "_domain": 0, "_classname": "2007 Ford Mustang Convertible", "_label": 106}
+{"_impath": "stanford_cars/cars_train/05099.jpg", "_domain": 0, "_classname": "2007 Ford Mustang Convertible", "_label": 106}
+{"_impath": "stanford_cars/cars_train/04677.jpg", "_domain": 0, "_classname": "2007 Ford Mustang Convertible", "_label": 106}
+{"_impath": "stanford_cars/cars_train/04386.jpg", "_domain": 0, "_classname": "2012 Aston Martin Virage Convertible", "_label": 9}
+{"_impath": "stanford_cars/cars_train/02326.jpg", "_domain": 0, "_classname": "2012 Aston Martin Virage Convertible", "_label": 9}
+{"_impath": "stanford_cars/cars_train/05143.jpg", "_domain": 0, "_classname": "2012 Aston Martin Virage Convertible", "_label": 9}
+{"_impath": "stanford_cars/cars_train/05718.jpg", "_domain": 0, "_classname": "2012 Aston Martin Virage Convertible", "_label": 9}
+{"_impath": "stanford_cars/cars_train/00222.jpg", "_domain": 0, "_classname": "2012 smart fortwo Convertible", "_label": 195}
+{"_impath": "stanford_cars/cars_train/04361.jpg", "_domain": 0, "_classname": "2012 smart fortwo Convertible", "_label": 195}
+{"_impath": "stanford_cars/cars_train/05119.jpg", "_domain": 0, "_classname": "2012 smart fortwo Convertible", "_label": 195}
+{"_impath": "stanford_cars/cars_train/05394.jpg", "_domain": 0, "_classname": "2012 smart fortwo Convertible", "_label": 195}
+{"_impath": "stanford_cars/cars_train/03618.jpg", "_domain": 0, "_classname": "2012 FIAT 500 Abarth", "_label": 98}
+{"_impath": "stanford_cars/cars_train/07291.jpg", "_domain": 0, "_classname": "2012 FIAT 500 Abarth", "_label": 98}
+{"_impath": "stanford_cars/cars_train/06798.jpg", "_domain": 0, "_classname": "2012 FIAT 500 Abarth", "_label": 98}
+{"_impath": "stanford_cars/cars_train/07412.jpg", "_domain": 0, "_classname": "2012 FIAT 500 Abarth", "_label": 98}
+{"_impath": "stanford_cars/cars_train/02647.jpg", "_domain": 0, "_classname": "2012 Infiniti G Coupe IPL", "_label": 140}
+{"_impath": "stanford_cars/cars_train/03183.jpg", "_domain": 0, "_classname": "2012 Infiniti G Coupe IPL", "_label": 140}
+{"_impath": "stanford_cars/cars_train/01480.jpg", "_domain": 0, "_classname": "2012 Infiniti G Coupe IPL", "_label": 140}
+{"_impath": "stanford_cars/cars_train/00385.jpg", "_domain": 0, "_classname": "2012 Infiniti G Coupe IPL", "_label": 140}
+{"_impath": "stanford_cars/cars_train/01799.jpg", "_domain": 0, "_classname": "2007 Dodge Caliber Wagon", "_label": 83}
+{"_impath": "stanford_cars/cars_train/00459.jpg", "_domain": 0, "_classname": "2007 Dodge Caliber Wagon", "_label": 83}
+{"_impath": "stanford_cars/cars_train/07381.jpg", "_domain": 0, "_classname": "2007 Dodge Caliber Wagon", "_label": 83}
+{"_impath": "stanford_cars/cars_train/01969.jpg", "_domain": 0, "_classname": "2007 Dodge Caliber Wagon", "_label": 83}
+{"_impath": "stanford_cars/cars_train/05689.jpg", "_domain": 0, "_classname": "2012 Hyundai Tucson SUV", "_label": 131}
+{"_impath": "stanford_cars/cars_train/00919.jpg", "_domain": 0, "_classname": "2012 Hyundai Tucson SUV", "_label": 131}
+{"_impath": "stanford_cars/cars_train/06351.jpg", "_domain": 0, "_classname": "2012 Hyundai Tucson SUV", "_label": 131}
+{"_impath": "stanford_cars/cars_train/01050.jpg", "_domain": 0, "_classname": "2012 Hyundai Tucson SUV", "_label": 131}
+{"_impath": "stanford_cars/cars_train/05349.jpg", "_domain": 0, "_classname": "2012 Acura ZDX Hatchback", "_label": 6}
+{"_impath": "stanford_cars/cars_train/00425.jpg", "_domain": 0, "_classname": "2012 Acura ZDX Hatchback", "_label": 6}
+{"_impath": "stanford_cars/cars_train/05386.jpg", "_domain": 0, "_classname": "2012 Acura ZDX Hatchback", "_label": 6}
+{"_impath": "stanford_cars/cars_train/06309.jpg", "_domain": 0, "_classname": "2012 Acura ZDX Hatchback", "_label": 6}
+{"_impath": "stanford_cars/cars_train/03821.jpg", "_domain": 0, "_classname": "2012 BMW ActiveHybrid 5 Sedan", "_label": 25}
+{"_impath": "stanford_cars/cars_train/03740.jpg", "_domain": 0, "_classname": "2012 BMW ActiveHybrid 5 Sedan", "_label": 25}
+{"_impath": "stanford_cars/cars_train/04089.jpg", "_domain": 0, "_classname": "2012 BMW ActiveHybrid 5 Sedan", "_label": 25}
+{"_impath": "stanford_cars/cars_train/02258.jpg", "_domain": 0, "_classname": "2012 BMW ActiveHybrid 5 Sedan", "_label": 25}
+{"_impath": "stanford_cars/cars_train/03549.jpg", "_domain": 0, "_classname": "2012 Ferrari California Convertible", "_label": 101}
+{"_impath": "stanford_cars/cars_train/02162.jpg", "_domain": 0, "_classname": "2012 Ferrari California Convertible", "_label": 101}
+{"_impath": "stanford_cars/cars_train/02776.jpg", "_domain": 0, "_classname": "2012 Ferrari California Convertible", "_label": 101}
+{"_impath": "stanford_cars/cars_train/02861.jpg", "_domain": 0, "_classname": "2012 Ferrari California Convertible", "_label": 101}
+{"_impath": "stanford_cars/cars_train/00372.jpg", "_domain": 0, "_classname": "2012 Nissan Leaf Hatchback", "_label": 167}
+{"_impath": "stanford_cars/cars_train/07409.jpg", "_domain": 0, "_classname": "2012 Nissan Leaf Hatchback", "_label": 167}
+{"_impath": "stanford_cars/cars_train/02069.jpg", "_domain": 0, "_classname": "2012 Nissan Leaf Hatchback", "_label": 167}
+{"_impath": "stanford_cars/cars_train/03263.jpg", "_domain": 0, "_classname": "2012 Nissan Leaf Hatchback", "_label": 167}
+{"_impath": "stanford_cars/cars_train/01717.jpg", "_domain": 0, "_classname": "2001 Lamborghini Diablo Coupe", "_label": 152}
+{"_impath": "stanford_cars/cars_train/08121.jpg", "_domain": 0, "_classname": "2001 Lamborghini Diablo Coupe", "_label": 152}
+{"_impath": "stanford_cars/cars_train/00249.jpg", "_domain": 0, "_classname": "2001 Lamborghini Diablo Coupe", "_label": 152}
+{"_impath": "stanford_cars/cars_train/04962.jpg", "_domain": 0, "_classname": "2001 Lamborghini Diablo Coupe", "_label": 152}
+{"_impath": "stanford_cars/cars_train/06678.jpg", "_domain": 0, "_classname": "2012 Audi S5 Convertible", "_label": 20}
+{"_impath": "stanford_cars/cars_train/05150.jpg", "_domain": 0, "_classname": "2012 Audi S5 Convertible", "_label": 20}
+{"_impath": "stanford_cars/cars_train/03738.jpg", "_domain": 0, "_classname": "2012 Audi S5 Convertible", "_label": 20}
+{"_impath": "stanford_cars/cars_train/02696.jpg", "_domain": 0, "_classname": "2012 Audi S5 Convertible", "_label": 20}
+{"_impath": "stanford_cars/cars_train/05892.jpg", "_domain": 0, "_classname": "2007 BMW 6 Series Convertible", "_label": 30}
+{"_impath": "stanford_cars/cars_train/01879.jpg", "_domain": 0, "_classname": "2007 BMW 6 Series Convertible", "_label": 30}
+{"_impath": "stanford_cars/cars_train/03957.jpg", "_domain": 0, "_classname": "2007 BMW 6 Series Convertible", "_label": 30}
+{"_impath": "stanford_cars/cars_train/04138.jpg", "_domain": 0, "_classname": "2007 BMW 6 Series Convertible", "_label": 30}
+{"_impath": "stanford_cars/cars_train/03658.jpg", "_domain": 0, "_classname": "2012 Ferrari 458 Italia Convertible", "_label": 102}
+{"_impath": "stanford_cars/cars_train/04634.jpg", "_domain": 0, "_classname": "2012 Ferrari 458 Italia Convertible", "_label": 102}
+{"_impath": "stanford_cars/cars_train/05552.jpg", "_domain": 0, "_classname": "2012 Ferrari 458 Italia Convertible", "_label": 102}
+{"_impath": "stanford_cars/cars_train/06162.jpg", "_domain": 0, "_classname": "2012 Ferrari 458 Italia Convertible", "_label": 102}
+{"_impath": "stanford_cars/cars_train/06456.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 2500HD Regular Cab", "_label": 68}
+{"_impath": "stanford_cars/cars_train/01736.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 2500HD Regular Cab", "_label": 68}
+{"_impath": "stanford_cars/cars_train/01905.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 2500HD Regular Cab", "_label": 68}
+{"_impath": "stanford_cars/cars_train/04439.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 2500HD Regular Cab", "_label": 68}
+{"_impath": "stanford_cars/cars_train/01108.jpg", "_domain": 0, "_classname": "2012 Chevrolet Corvette Convertible", "_label": 54}
+{"_impath": "stanford_cars/cars_train/05557.jpg", "_domain": 0, "_classname": "2012 Chevrolet Corvette Convertible", "_label": 54}
+{"_impath": "stanford_cars/cars_train/06386.jpg", "_domain": 0, "_classname": "2012 Chevrolet Corvette Convertible", "_label": 54}
+{"_impath": "stanford_cars/cars_train/05436.jpg", "_domain": 0, "_classname": "2012 Chevrolet Corvette Convertible", "_label": 54}
+{"_impath": "stanford_cars/cars_train/01703.jpg", "_domain": 0, "_classname": "2009 Bugatti Veyron 16.4 Coupe", "_label": 45}
+{"_impath": "stanford_cars/cars_train/07635.jpg", "_domain": 0, "_classname": "2009 Bugatti Veyron 16.4 Coupe", "_label": 45}
+{"_impath": "stanford_cars/cars_train/07232.jpg", "_domain": 0, "_classname": "2009 Bugatti Veyron 16.4 Coupe", "_label": 45}
+{"_impath": "stanford_cars/cars_train/03330.jpg", "_domain": 0, "_classname": "2009 Bugatti Veyron 16.4 Coupe", "_label": 45}
+{"_impath": "stanford_cars/cars_train/00269.jpg", "_domain": 0, "_classname": "2012 Tesla Model S Sedan", "_label": 184}
+{"_impath": "stanford_cars/cars_train/06168.jpg", "_domain": 0, "_classname": "2012 Tesla Model S Sedan", "_label": 184}
+{"_impath": "stanford_cars/cars_train/03864.jpg", "_domain": 0, "_classname": "2012 Tesla Model S Sedan", "_label": 184}
+{"_impath": "stanford_cars/cars_train/00584.jpg", "_domain": 0, "_classname": "2012 Tesla Model S Sedan", "_label": 184}
+{"_impath": "stanford_cars/cars_train/04055.jpg", "_domain": 0, "_classname": "2012 FIAT 500 Convertible", "_label": 99}
+{"_impath": "stanford_cars/cars_train/06289.jpg", "_domain": 0, "_classname": "2012 FIAT 500 Convertible", "_label": 99}
+{"_impath": "stanford_cars/cars_train/02731.jpg", "_domain": 0, "_classname": "2012 FIAT 500 Convertible", "_label": 99}
+{"_impath": "stanford_cars/cars_train/03707.jpg", "_domain": 0, "_classname": "2012 FIAT 500 Convertible", "_label": 99}
+{"_impath": "stanford_cars/cars_train/04604.jpg", "_domain": 0, "_classname": "2012 Hyundai Veloster Hatchback", "_label": 129}
+{"_impath": "stanford_cars/cars_train/04131.jpg", "_domain": 0, "_classname": "2012 Hyundai Veloster Hatchback", "_label": 129}
+{"_impath": "stanford_cars/cars_train/04599.jpg", "_domain": 0, "_classname": "2012 Hyundai Veloster Hatchback", "_label": 129}
+{"_impath": "stanford_cars/cars_train/03883.jpg", "_domain": 0, "_classname": "2012 Hyundai Veloster Hatchback", "_label": 129}
+{"_impath": "stanford_cars/cars_train/00665.jpg", "_domain": 0, "_classname": "2011 Lincoln Town Car Sedan", "_label": 155}
+{"_impath": "stanford_cars/cars_train/05747.jpg", "_domain": 0, "_classname": "2011 Lincoln Town Car Sedan", "_label": 155}
+{"_impath": "stanford_cars/cars_train/06795.jpg", "_domain": 0, "_classname": "2011 Lincoln Town Car Sedan", "_label": 155}
+{"_impath": "stanford_cars/cars_train/07856.jpg", "_domain": 0, "_classname": "2011 Lincoln Town Car Sedan", "_label": 155}
+{"_impath": "stanford_cars/cars_train/01586.jpg", "_domain": 0, "_classname": "2012 Lamborghini Aventador Coupe", "_label": 150}
+{"_impath": "stanford_cars/cars_train/02580.jpg", "_domain": 0, "_classname": "2012 Lamborghini Aventador Coupe", "_label": 150}
+{"_impath": "stanford_cars/cars_train/07473.jpg", "_domain": 0, "_classname": "2012 Lamborghini Aventador Coupe", "_label": 150}
+{"_impath": "stanford_cars/cars_train/07362.jpg", "_domain": 0, "_classname": "2012 Lamborghini Aventador Coupe", "_label": 150}
+{"_impath": "stanford_cars/cars_train/01378.jpg", "_domain": 0, "_classname": "2009 Dodge Ram Pickup 3500 Quad Cab", "_label": 86}
+{"_impath": "stanford_cars/cars_train/05684.jpg", "_domain": 0, "_classname": "2009 Dodge Ram Pickup 3500 Quad Cab", "_label": 86}
+{"_impath": "stanford_cars/cars_train/06931.jpg", "_domain": 0, "_classname": "2009 Dodge Ram Pickup 3500 Quad Cab", "_label": 86}
+{"_impath": "stanford_cars/cars_train/04431.jpg", "_domain": 0, "_classname": "2009 Dodge Ram Pickup 3500 Quad Cab", "_label": 86}
+{"_impath": "stanford_cars/cars_train/02243.jpg", "_domain": 0, "_classname": "2012 Nissan NV Passenger Van", "_label": 168}
+{"_impath": "stanford_cars/cars_train/00972.jpg", "_domain": 0, "_classname": "2012 Nissan NV Passenger Van", "_label": 168}
+{"_impath": "stanford_cars/cars_train/06517.jpg", "_domain": 0, "_classname": "2012 Nissan NV Passenger Van", "_label": 168}
+{"_impath": "stanford_cars/cars_train/06604.jpg", "_domain": 0, "_classname": "2012 Nissan NV Passenger Van", "_label": 168}
+{"_impath": "stanford_cars/cars_train/01986.jpg", "_domain": 0, "_classname": "2007 Honda Odyssey Minivan", "_label": 126}
+{"_impath": "stanford_cars/cars_train/01017.jpg", "_domain": 0, "_classname": "2007 Honda Odyssey Minivan", "_label": 126}
+{"_impath": "stanford_cars/cars_train/02071.jpg", "_domain": 0, "_classname": "2007 Honda Odyssey Minivan", "_label": 126}
+{"_impath": "stanford_cars/cars_train/06266.jpg", "_domain": 0, "_classname": "2007 Honda Odyssey Minivan", "_label": 126}
+{"_impath": "stanford_cars/cars_train/05409.jpg", "_domain": 0, "_classname": "2012 Maybach Landaulet Convertible", "_label": 157}
+{"_impath": "stanford_cars/cars_train/01973.jpg", "_domain": 0, "_classname": "2012 Maybach Landaulet Convertible", "_label": 157}
+{"_impath": "stanford_cars/cars_train/06766.jpg", "_domain": 0, "_classname": "2012 Maybach Landaulet Convertible", "_label": 157}
+{"_impath": "stanford_cars/cars_train/07374.jpg", "_domain": 0, "_classname": "2012 Maybach Landaulet Convertible", "_label": 157}
+{"_impath": "stanford_cars/cars_train/07387.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 1500 Regular Cab", "_label": 74}
+{"_impath": "stanford_cars/cars_train/06055.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 1500 Regular Cab", "_label": 74}
+{"_impath": "stanford_cars/cars_train/06091.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 1500 Regular Cab", "_label": 74}
+{"_impath": "stanford_cars/cars_train/02903.jpg", "_domain": 0, "_classname": "2012 Chevrolet Silverado 1500 Regular Cab", "_label": 74}
+{"_impath": "stanford_cars/cars_train/04860.jpg", "_domain": 0, "_classname": "2012 Suzuki Kizashi Sedan", "_label": 181}
+{"_impath": "stanford_cars/cars_train/05856.jpg", "_domain": 0, "_classname": "2012 Suzuki Kizashi Sedan", "_label": 181}
+{"_impath": "stanford_cars/cars_train/06489.jpg", "_domain": 0, "_classname": "2012 Suzuki Kizashi Sedan", "_label": 181}
+{"_impath": "stanford_cars/cars_train/01250.jpg", "_domain": 0, "_classname": "2012 Suzuki Kizashi Sedan", "_label": 181}
+{"_impath": "stanford_cars/cars_train/07349.jpg", "_domain": 0, "_classname": "2012 Chevrolet Tahoe Hybrid SUV", "_label": 61}
+{"_impath": "stanford_cars/cars_train/03135.jpg", "_domain": 0, "_classname": "2012 Chevrolet Tahoe Hybrid SUV", "_label": 61}
+{"_impath": "stanford_cars/cars_train/07150.jpg", "_domain": 0, "_classname": "2012 Chevrolet Tahoe Hybrid SUV", "_label": 61}
+{"_impath": "stanford_cars/cars_train/04008.jpg", "_domain": 0, "_classname": "2012 Chevrolet Tahoe Hybrid SUV", "_label": 61}
+{"_impath": "stanford_cars/cars_train/00391.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz Sprinter Van", "_label": 165}
+{"_impath": "stanford_cars/cars_train/06472.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz Sprinter Van", "_label": 165}
+{"_impath": "stanford_cars/cars_train/03521.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz Sprinter Van", "_label": 165}
+{"_impath": "stanford_cars/cars_train/05399.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz Sprinter Van", "_label": 165}
+{"_impath": "stanford_cars/cars_train/00984.jpg", "_domain": 0, "_classname": "2007 Suzuki Aerio Sedan", "_label": 180}
+{"_impath": "stanford_cars/cars_train/02987.jpg", "_domain": 0, "_classname": "2007 Suzuki Aerio Sedan", "_label": 180}
+{"_impath": "stanford_cars/cars_train/01858.jpg", "_domain": 0, "_classname": "2007 Suzuki Aerio Sedan", "_label": 180}
+{"_impath": "stanford_cars/cars_train/06175.jpg", "_domain": 0, "_classname": "2007 Suzuki Aerio Sedan", "_label": 180}
+{"_impath": "stanford_cars/cars_train/00334.jpg", "_domain": 0, "_classname": "2012 Audi S5 Coupe", "_label": 21}
+{"_impath": "stanford_cars/cars_train/02256.jpg", "_domain": 0, "_classname": "2012 Audi S5 Coupe", "_label": 21}
+{"_impath": "stanford_cars/cars_train/00785.jpg", "_domain": 0, "_classname": "2012 Audi S5 Coupe", "_label": 21}
+{"_impath": "stanford_cars/cars_train/05426.jpg", "_domain": 0, "_classname": "2012 Audi S5 Coupe", "_label": 21}
+{"_impath": "stanford_cars/cars_train/01276.jpg", "_domain": 0, "_classname": "2012 Aston Martin V8 Vantage Coupe", "_label": 8}
+{"_impath": "stanford_cars/cars_train/02194.jpg", "_domain": 0, "_classname": "2012 Aston Martin V8 Vantage Coupe", "_label": 8}
+{"_impath": "stanford_cars/cars_train/03828.jpg", "_domain": 0, "_classname": "2012 Aston Martin V8 Vantage Coupe", "_label": 8}
+{"_impath": "stanford_cars/cars_train/02378.jpg", "_domain": 0, "_classname": "2012 Aston Martin V8 Vantage Coupe", "_label": 8}
+{"_impath": "stanford_cars/cars_train/06032.jpg", "_domain": 0, "_classname": "2010 Chevrolet Malibu Hybrid Sedan", "_label": 66}
+{"_impath": "stanford_cars/cars_train/03484.jpg", "_domain": 0, "_classname": "2010 Chevrolet Malibu Hybrid Sedan", "_label": 66}
+{"_impath": "stanford_cars/cars_train/01881.jpg", "_domain": 0, "_classname": "2010 Chevrolet Malibu Hybrid Sedan", "_label": 66}
+{"_impath": "stanford_cars/cars_train/06444.jpg", "_domain": 0, "_classname": "2010 Chevrolet Malibu Hybrid Sedan", "_label": 66}
+{"_impath": "stanford_cars/cars_train/07732.jpg", "_domain": 0, "_classname": "2012 Ford F-150 Regular Cab", "_label": 112}
+{"_impath": "stanford_cars/cars_train/02093.jpg", "_domain": 0, "_classname": "2012 Ford F-150 Regular Cab", "_label": 112}
+{"_impath": "stanford_cars/cars_train/05753.jpg", "_domain": 0, "_classname": "2012 Ford F-150 Regular Cab", "_label": 112}
+{"_impath": "stanford_cars/cars_train/01175.jpg", "_domain": 0, "_classname": "2012 Ford F-150 Regular Cab", "_label": 112}
+{"_impath": "stanford_cars/cars_train/04419.jpg", "_domain": 0, "_classname": "2012 Ford Fiesta Sedan", "_label": 116}
+{"_impath": "stanford_cars/cars_train/04036.jpg", "_domain": 0, "_classname": "2012 Ford Fiesta Sedan", "_label": 116}
+{"_impath": "stanford_cars/cars_train/00811.jpg", "_domain": 0, "_classname": "2012 Ford Fiesta Sedan", "_label": 116}
+{"_impath": "stanford_cars/cars_train/02834.jpg", "_domain": 0, "_classname": "2012 Ford Fiesta Sedan", "_label": 116}
+{"_impath": "stanford_cars/cars_train/06627.jpg", "_domain": 0, "_classname": "2007 Ford Focus Sedan", "_label": 114}
+{"_impath": "stanford_cars/cars_train/06184.jpg", "_domain": 0, "_classname": "2007 Ford Focus Sedan", "_label": 114}
+{"_impath": "stanford_cars/cars_train/05970.jpg", "_domain": 0, "_classname": "2007 Ford Focus Sedan", "_label": 114}
+{"_impath": "stanford_cars/cars_train/00993.jpg", "_domain": 0, "_classname": "2007 Ford Focus Sedan", "_label": 114}
+{"_impath": "stanford_cars/cars_train/06006.jpg", "_domain": 0, "_classname": "2012 Bentley Continental Supersports Conv. Convertible", "_label": 38}
+{"_impath": "stanford_cars/cars_train/01772.jpg", "_domain": 0, "_classname": "2012 Bentley Continental Supersports Conv. Convertible", "_label": 38}
+{"_impath": "stanford_cars/cars_train/06953.jpg", "_domain": 0, "_classname": "2012 Bentley Continental Supersports Conv. Convertible", "_label": 38}
+{"_impath": "stanford_cars/cars_train/06531.jpg", "_domain": 0, "_classname": "2012 Bentley Continental Supersports Conv. Convertible", "_label": 38}
+{"_impath": "stanford_cars/cars_train/07406.jpg", "_domain": 0, "_classname": "2007 Chevrolet Silverado 1500 Classic Extended Cab", "_label": 69}
+{"_impath": "stanford_cars/cars_train/01874.jpg", "_domain": 0, "_classname": "2007 Chevrolet Silverado 1500 Classic Extended Cab", "_label": 69}
+{"_impath": "stanford_cars/cars_train/06946.jpg", "_domain": 0, "_classname": "2007 Chevrolet Silverado 1500 Classic Extended Cab", "_label": 69}
+{"_impath": "stanford_cars/cars_train/04610.jpg", "_domain": 0, "_classname": "2007 Chevrolet Silverado 1500 Classic Extended Cab", "_label": 69}
+{"_impath": "stanford_cars/cars_train/04737.jpg", "_domain": 0, "_classname": "2007 BMW X5 SUV", "_label": 31}
+{"_impath": "stanford_cars/cars_train/00366.jpg", "_domain": 0, "_classname": "2007 BMW X5 SUV", "_label": 31}
+{"_impath": "stanford_cars/cars_train/02221.jpg", "_domain": 0, "_classname": "2007 BMW X5 SUV", "_label": 31}
+{"_impath": "stanford_cars/cars_train/04736.jpg", "_domain": 0, "_classname": "2007 BMW X5 SUV", "_label": 31}
+{"_impath": "stanford_cars/cars_train/04422.jpg", "_domain": 0, "_classname": "2012 Jeep Wrangler SUV", "_label": 145}
+{"_impath": "stanford_cars/cars_train/07274.jpg", "_domain": 0, "_classname": "2012 Jeep Wrangler SUV", "_label": 145}
+{"_impath": "stanford_cars/cars_train/02021.jpg", "_domain": 0, "_classname": "2012 Jeep Wrangler SUV", "_label": 145}
+{"_impath": "stanford_cars/cars_train/01462.jpg", "_domain": 0, "_classname": "2012 Jeep Wrangler SUV", "_label": 145}
+{"_impath": "stanford_cars/cars_train/05307.jpg", "_domain": 0, "_classname": "2008 Acura TL Type-S", "_label": 3}
+{"_impath": "stanford_cars/cars_train/02124.jpg", "_domain": 0, "_classname": "2008 Acura TL Type-S", "_label": 3}
+{"_impath": "stanford_cars/cars_train/07214.jpg", "_domain": 0, "_classname": "2008 Acura TL Type-S", "_label": 3}
+{"_impath": "stanford_cars/cars_train/03607.jpg", "_domain": 0, "_classname": "2008 Acura TL Type-S", "_label": 3}
+{"_impath": "stanford_cars/cars_train/01437.jpg", "_domain": 0, "_classname": "2008 Chrysler Crossfire Convertible", "_label": 79}
+{"_impath": "stanford_cars/cars_train/01359.jpg", "_domain": 0, "_classname": "2008 Chrysler Crossfire Convertible", "_label": 79}
+{"_impath": "stanford_cars/cars_train/02224.jpg", "_domain": 0, "_classname": "2008 Chrysler Crossfire Convertible", "_label": 79}
+{"_impath": "stanford_cars/cars_train/02543.jpg", "_domain": 0, "_classname": "2008 Chrysler Crossfire Convertible", "_label": 79}
+{"_impath": "stanford_cars/cars_train/05287.jpg", "_domain": 0, "_classname": "2012 Lamborghini Gallardo LP 570-4 Superleggera", "_label": 151}
+{"_impath": "stanford_cars/cars_train/06282.jpg", "_domain": 0, "_classname": "2012 Lamborghini Gallardo LP 570-4 Superleggera", "_label": 151}
+{"_impath": "stanford_cars/cars_train/03075.jpg", "_domain": 0, "_classname": "2012 Lamborghini Gallardo LP 570-4 Superleggera", "_label": 151}
+{"_impath": "stanford_cars/cars_train/04517.jpg", "_domain": 0, "_classname": "2012 Lamborghini Gallardo LP 570-4 Superleggera", "_label": 151}
+{"_impath": "stanford_cars/cars_train/06542.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz E-Class Sedan", "_label": 163}
+{"_impath": "stanford_cars/cars_train/08102.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz E-Class Sedan", "_label": 163}
+{"_impath": "stanford_cars/cars_train/03820.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz E-Class Sedan", "_label": 163}
+{"_impath": "stanford_cars/cars_train/02567.jpg", "_domain": 0, "_classname": "2012 Mercedes-Benz E-Class Sedan", "_label": 163}
+{"_impath": "stanford_cars/cars_train/06087.jpg", "_domain": 0, "_classname": "2007 Chevrolet Express Cargo Van", "_label": 63}
+{"_impath": "stanford_cars/cars_train/08049.jpg", "_domain": 0, "_classname": "2007 Chevrolet Express Cargo Van", "_label": 63}
+{"_impath": "stanford_cars/cars_train/02242.jpg", "_domain": 0, "_classname": "2007 Chevrolet Express Cargo Van", "_label": 63}
+{"_impath": "stanford_cars/cars_train/04189.jpg", "_domain": 0, "_classname": "2007 Chevrolet Express Cargo Van", "_label": 63}
+{"_impath": "stanford_cars/cars_train/04305.jpg", "_domain": 0, "_classname": "2012 GMC Terrain SUV", "_label": 117}
+{"_impath": "stanford_cars/cars_train/03150.jpg", "_domain": 0, "_classname": "2012 GMC Terrain SUV", "_label": 117}
+{"_impath": "stanford_cars/cars_train/04142.jpg", "_domain": 0, "_classname": "2012 GMC Terrain SUV", "_label": 117}
+{"_impath": "stanford_cars/cars_train/05319.jpg", "_domain": 0, "_classname": "2012 GMC Terrain SUV", "_label": 117}
+{"_impath": "stanford_cars/cars_train/06828.jpg", "_domain": 0, "_classname": "2008 Dodge Magnum Wagon", "_label": 91}
+{"_impath": "stanford_cars/cars_train/07242.jpg", "_domain": 0, "_classname": "2008 Dodge Magnum Wagon", "_label": 91}
+{"_impath": "stanford_cars/cars_train/05384.jpg", "_domain": 0, "_classname": "2008 Dodge Magnum Wagon", "_label": 91}
+{"_impath": "stanford_cars/cars_train/05209.jpg", "_domain": 0, "_classname": "2008 Dodge Magnum Wagon", "_label": 91}
+{"_impath": "stanford_cars/cars_train/07521.jpg", "_domain": 0, "_classname": "2012 Honda Accord Sedan", "_label": 128}
+{"_impath": "stanford_cars/cars_train/03876.jpg", "_domain": 0, "_classname": "2012 Honda Accord Sedan", "_label": 128}
+{"_impath": "stanford_cars/cars_train/04112.jpg", "_domain": 0, "_classname": "2012 Honda Accord Sedan", "_label": 128}
+{"_impath": "stanford_cars/cars_train/00699.jpg", "_domain": 0, "_classname": "2012 Honda Accord Sedan", "_label": 128}
+{"_impath": "stanford_cars/cars_train/07913.jpg", "_domain": 0, "_classname": "2008 Chrysler PT Cruiser Convertible", "_label": 80}
+{"_impath": "stanford_cars/cars_train/01673.jpg", "_domain": 0, "_classname": "2008 Chrysler PT Cruiser Convertible", "_label": 80}
+{"_impath": "stanford_cars/cars_train/04053.jpg", "_domain": 0, "_classname": "2008 Chrysler PT Cruiser Convertible", "_label": 80}
+{"_impath": "stanford_cars/cars_train/04695.jpg", "_domain": 0, "_classname": "2008 Chrysler PT Cruiser Convertible", "_label": 80}
+{"_impath": "stanford_cars/cars_train/05778.jpg", "_domain": 0, "_classname": "2011 Mazda Tribute SUV", "_label": 158}
+{"_impath": "stanford_cars/cars_train/07106.jpg", "_domain": 0, "_classname": "2011 Mazda Tribute SUV", "_label": 158}
+{"_impath": "stanford_cars/cars_train/07255.jpg", "_domain": 0, "_classname": "2011 Mazda Tribute SUV", "_label": 158}
+{"_impath": "stanford_cars/cars_train/05999.jpg", "_domain": 0, "_classname": "2011 Mazda Tribute SUV", "_label": 158}
+{"_impath": "stanford_cars/cars_train/07922.jpg", "_domain": 0, "_classname": "2012 BMW M3 Coupe", "_label": 33}
+{"_impath": "stanford_cars/cars_train/05477.jpg", "_domain": 0, "_classname": "2012 BMW M3 Coupe", "_label": 33}
+{"_impath": "stanford_cars/cars_train/04630.jpg", "_domain": 0, "_classname": "2012 BMW M3 Coupe", "_label": 33}
+{"_impath": "stanford_cars/cars_train/01122.jpg", "_domain": 0, "_classname": "2012 BMW M3 Coupe", "_label": 33}
+{"_impath": "stanford_cars/cars_train/02612.jpg", "_domain": 0, "_classname": "1998 Eagle Talon Hatchback", "_label": 97}
+{"_impath": "stanford_cars/cars_train/05061.jpg", "_domain": 0, "_classname": "1998 Eagle Talon Hatchback", "_label": 97}
+{"_impath": "stanford_cars/cars_train/00550.jpg", "_domain": 0, "_classname": "1998 Eagle Talon Hatchback", "_label": 97}
+{"_impath": "stanford_cars/cars_train/02917.jpg", "_domain": 0, "_classname": "1998 Eagle Talon Hatchback", "_label": 97}
+{"_impath": "stanford_cars/cars_train/04103.jpg", "_domain": 0, "_classname": "2002 Daewoo Nubira Wagon", "_label": 81}
+{"_impath": "stanford_cars/cars_train/06511.jpg", "_domain": 0, "_classname": "2002 Daewoo Nubira Wagon", "_label": 81}
+{"_impath": "stanford_cars/cars_train/03315.jpg", "_domain": 0, "_classname": "2002 Daewoo Nubira Wagon", "_label": 81}
+{"_impath": "stanford_cars/cars_train/03625.jpg", "_domain": 0, "_classname": "2002 Daewoo Nubira Wagon", "_label": 81}
+{"_impath": "stanford_cars/cars_train/02975.jpg", "_domain": 0, "_classname": "2012 BMW X6 SUV", "_label": 32}
+{"_impath": "stanford_cars/cars_train/07651.jpg", "_domain": 0, "_classname": "2012 BMW X6 SUV", "_label": 32}
+{"_impath": "stanford_cars/cars_train/03237.jpg", "_domain": 0, "_classname": "2012 BMW X6 SUV", "_label": 32}
+{"_impath": "stanford_cars/cars_train/05877.jpg", "_domain": 0, "_classname": "2012 BMW X6 SUV", "_label": 32}
+{"_impath": "stanford_cars/cars_train/00608.jpg", "_domain": 0, "_classname": "2008 Lamborghini Reventon Coupe", "_label": 149}
+{"_impath": "stanford_cars/cars_train/06652.jpg", "_domain": 0, "_classname": "2008 Lamborghini Reventon Coupe", "_label": 149}
+{"_impath": "stanford_cars/cars_train/06926.jpg", "_domain": 0, "_classname": "2008 Lamborghini Reventon Coupe", "_label": 149}
+{"_impath": "stanford_cars/cars_train/02307.jpg", "_domain": 0, "_classname": "2008 Lamborghini Reventon Coupe", "_label": 149}
+{"_impath": "stanford_cars/cars_train/01136.jpg", "_domain": 0, "_classname": "2012 Cadillac SRX SUV", "_label": 51}
+{"_impath": "stanford_cars/cars_train/02266.jpg", "_domain": 0, "_classname": "2012 Cadillac SRX SUV", "_label": 51}
+{"_impath": "stanford_cars/cars_train/07578.jpg", "_domain": 0, "_classname": "2012 Cadillac SRX SUV", "_label": 51}
+{"_impath": "stanford_cars/cars_train/02811.jpg", "_domain": 0, "_classname": "2012 Cadillac SRX SUV", "_label": 51}
+{"_impath": "stanford_cars/cars_train/04867.jpg", "_domain": 0, "_classname": "2012 MINI Cooper Roadster Convertible", "_label": 156}
+{"_impath": "stanford_cars/cars_train/02817.jpg", "_domain": 0, "_classname": "2012 MINI Cooper Roadster Convertible", "_label": 156}
+{"_impath": "stanford_cars/cars_train/05230.jpg", "_domain": 0, "_classname": "2012 MINI Cooper Roadster Convertible", "_label": 156}
+{"_impath": "stanford_cars/cars_train/02902.jpg", "_domain": 0, "_classname": "2012 MINI Cooper Roadster Convertible", "_label": 156}
+{"_impath": "stanford_cars/cars_train/06839.jpg", "_domain": 0, "_classname": "2012 Acura RL Sedan", "_label": 1}
+{"_impath": "stanford_cars/cars_train/02669.jpg", "_domain": 0, "_classname": "2012 Acura RL Sedan", "_label": 1}
+{"_impath": "stanford_cars/cars_train/01891.jpg", "_domain": 0, "_classname": "2012 Acura RL Sedan", "_label": 1}
+{"_impath": "stanford_cars/cars_train/03011.jpg", "_domain": 0, "_classname": "2012 Acura RL Sedan", "_label": 1}
+{"_impath": "stanford_cars/cars_train/02042.jpg", "_domain": 0, "_classname": "2012 BMW 1 Series Convertible", "_label": 26}
+{"_impath": "stanford_cars/cars_train/04946.jpg", "_domain": 0, "_classname": "2012 BMW 1 Series Convertible", "_label": 26}
+{"_impath": "stanford_cars/cars_train/02451.jpg", "_domain": 0, "_classname": "2012 BMW 1 Series Convertible", "_label": 26}
+{"_impath": "stanford_cars/cars_train/01036.jpg", "_domain": 0, "_classname": "2012 BMW 1 Series Convertible", "_label": 26}
+{"_impath": "stanford_cars/cars_train/03110.jpg", "_domain": 0, "_classname": "2007 Dodge Durango SUV", "_label": 94}
+{"_impath": "stanford_cars/cars_train/06319.jpg", "_domain": 0, "_classname": "2007 Dodge Durango SUV", "_label": 94}
+{"_impath": "stanford_cars/cars_train/01784.jpg", "_domain": 0, "_classname": "2007 Dodge Durango SUV", "_label": 94}
+{"_impath": "stanford_cars/cars_train/02829.jpg", "_domain": 0, "_classname": "2007 Dodge Durango SUV", "_label": 94}
+{"_impath": "stanford_cars/cars_train/05275.jpg", "_domain": 0, "_classname": "2010 BMW M5 Sedan", "_label": 34}
+{"_impath": "stanford_cars/cars_train/04351.jpg", "_domain": 0, "_classname": "2010 BMW M5 Sedan", "_label": 34}
+{"_impath": "stanford_cars/cars_train/05290.jpg", "_domain": 0, "_classname": "2010 BMW M5 Sedan", "_label": 34}
+{"_impath": "stanford_cars/cars_train/03835.jpg", "_domain": 0, "_classname": "2010 BMW M5 Sedan", "_label": 34}
+{"_impath": "stanford_cars/cars_train/06231.jpg", "_domain": 0, "_classname": "2012 Chrysler Town and Country Minivan", "_label": 77}
+{"_impath": "stanford_cars/cars_train/01816.jpg", "_domain": 0, "_classname": "2012 Chrysler Town and Country Minivan", "_label": 77}
+{"_impath": "stanford_cars/cars_train/06025.jpg", "_domain": 0, "_classname": "2012 Chrysler Town and Country Minivan", "_label": 77}
+{"_impath": "stanford_cars/cars_train/05488.jpg", "_domain": 0, "_classname": "2012 Chrysler Town and Country Minivan", "_label": 77}
